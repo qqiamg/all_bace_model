@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1080</width>
+    <height>572</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ligo</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(68, 68, 68);</string>
+  </property>
+  <widget class="QFrame" name="frame_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>1061</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 1px solid gray;
+border-radius:1px;
+border-color: rgb(0, 0, 0);
+background-color: rgb(131, 131, 131);</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QFrame" name="horizontalFrame">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>20</y>
+      <width>239</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border: none;</string>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QPushButton" name="pushButton_3">
+       <property name="minimumSize">
+        <size>
+         <width>50</width>
+         <height>50</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>50</width>
+         <height>50</height>
+        </size>
+       </property>
+       <property name="font">
+        <font>
+         <family>华文琥珀</family>
+         <pointsize>11</pointsize>
+         <weight>50</weight>
+         <italic>false</italic>
+         <bold>false</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QPushButton
+{
+border: none;
+font: 11pt &quot;华文琥珀&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(0, 156, 0);
+border-radius:25px;
+}
+
+QPushButton:hover
+{
+    background-color:rgb(0, 220, 0);
+}
+
+QPushButton:pressed
+{
+    background-color:rgb(147, 147, 147);
+    padding-left:3px;
+    padding-top:3px;
+}
+
+QPushButton:unchecked {
+    background-color:rgb(147, 147, 147);
+    color: rgb(255, 255, 0);
+}
+
+</string>
+       </property>
+       <property name="text">
+        <string>启动</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_2">
+       <property name="minimumSize">
+        <size>
+         <width>50</width>
+         <height>50</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>50</width>
+         <height>50</height>
+        </size>
+       </property>
+       <property name="font">
+        <font>
+         <family>华文琥珀</family>
+         <pointsize>11</pointsize>
+         <weight>50</weight>
+         <italic>false</italic>
+         <bold>false</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QPushButton
+{
+border: none;
+font: 11pt &quot;华文琥珀&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(184, 0, 0);
+border-radius:25px;
+
+}
+QPushButton:hover
+{
+    background-color:rgb(255, 0, 0);
+}
+QPushButton:unchecked {
+    background-color:rgb(147, 147, 147);
+    color: rgb(255, 255, 0);
+}</string>
+       </property>
+       <property name="text">
+        <string>停止</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton">
+       <property name="minimumSize">
+        <size>
+         <width>50</width>
+         <height>50</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>50</width>
+         <height>50</height>
+        </size>
+       </property>
+       <property name="font">
+        <font>
+         <family>华文琥珀</family>
+         <pointsize>11</pointsize>
+         <weight>50</weight>
+         <italic>false</italic>
+         <bold>false</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QPushButton
+{
+border: none;
+font: 11pt &quot;华文琥珀&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(0, 136, 204);
+border-radius:25px;
+}
+QPushButton:hover
+{
+	background-color: rgb(0, 196, 255);
+}
+
+QPushButton:pressed
+{
+    background-color:rgb(147, 147, 147);
+    padding-left:3px;
+    padding-top:3px;
+}
+QPushButton:flat {
+    border: none; /* no border for a flat push button */
+	background-color:rgb(147, 147, 147);
+}
+
+QPushButton:default {
+    border-color: navy; /* make the default button prominent */
+	background-color:rgb(147, 147, 147);
+}</string>
+       </property>
+       <property name="text">
+        <string>保存</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QFrame" name="gridFrame">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>10</y>
+      <width>221</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border: none;</string>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="1">
+      <widget class="QCheckBox" name="checkBox_4">
+       <property name="font">
+        <font>
+         <family>微软雅黑</family>
+         <pointsize>10</pointsize>
+         <weight>9</weight>
+         <italic>false</italic>
+         <bold>false</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border: none;
+font: 75 10pt &quot;微软雅黑&quot;;
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>关闭时保存</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QCheckBox" name="checkBox">
+       <property name="font">
+        <font>
+         <family>微软雅黑</family>
+         <pointsize>10</pointsize>
+         <weight>9</weight>
+         <italic>false</italic>
+         <bold>false</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border: none;
+font: 75 10pt &quot;微软雅黑&quot;;
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>弹窗提示</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QCheckBox" name="checkBox_2">
+       <property name="font">
+        <font>
+         <family>微软雅黑</family>
+         <pointsize>10</pointsize>
+         <weight>9</weight>
+         <italic>false</italic>
+         <bold>false</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">border: none;
+font: 75 10pt &quot;微软雅黑&quot;;
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>提示音</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QTextEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>221</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(240, 240, 240);</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>40</y>
+      <width>50</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>50</width>
+      <height>16777215</height>
+     </size>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:  rgb(240, 240, 240);</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>40</y>
+      <width>71</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border: none;
+
+font: 75 10pt &quot;微软雅黑&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>监控赔率：</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>150</y>
+     <width>1061</width>
+     <height>411</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QTableCornerButton::section{background:yellow;}
+QTableWidget
+{
+    background:rgb(95, 95, 95);
+    border: 1px solid gray;
+    font-size:13px;
+    font-family:&quot;Microsoft YaHei&quot;;
+	color: rgb(255, 255, 255);
+}
+
+QTableWidget::item               
+{
+    border-bottom:2px solid #343434; 
+}
+
+QHeaderView
+{
+    background:transparent;        
+}
+
+QHeaderView::section
+{
+    font-size:15px;
+    font-family:&quot;Microsoft YaHei&quot;;
+	bold:75;
+    color:#FFFFFF;
+    background-color: rgb(0, 85, 0);
+}
+
+
+</string>
+   </property>
+   <column>
+    <property name="text">
+     <string>更新时间</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>状态</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>时间</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>联赛</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>主场 V 客场</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>比分</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>大球赔率</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>盘口</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>小球赔率</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>完场比分</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

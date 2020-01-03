@@ -1,0 +1,7 @@
+1、git init   初始化环境
+2、git status   查看更改的文件
+3、git add -A  追踪所有更改文件
+     git add "文件名" 追踪某个更改文件
+4、git commit -m "描述信息"  执行更改并添加描述
+如果文件不一致，需要先同步：git pull --rebase origin master
+5、git push 上传到git

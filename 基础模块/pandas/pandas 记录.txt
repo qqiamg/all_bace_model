@@ -1,0 +1,44 @@
+df = pd.read_excel('table(Abs).xlsx', sheet_name='24C',header=8) #读取文件，指定sheet ,指定第几行作为表头
+
+语句：
+1、遍历excel每行数据：
+	for one in df.iterrows():
+2、保存一个excel 的多个sheet:
+	writer = pd.ExcelWriter("测试banner_ou总和.xlsx")
+	df = pd.DataFrame(data=self.path_list, columns=["PathName", "FileName", "all_path"])
+	df.to_excel(writer, index=False, sheet_name="Dirs")
+	writer.save()	#所有存完才保存关闭
+        writer.close()
+3、按照列数据进行排序：
+	lins_df.sort_values(by=["BG", "OU", "City"], inplace=True) #by 为列名
+4、按照某列去重：
+	lins_df.drop_duplicates(subset='tag', keep='first', inplace=True) #subset 为列名
+5、归类统计：	
+	select_groupby = lins_df.groupby(['Banner', 'Channel'])	#按照 'Banner', 'Channel' 归类
+        all_name = []
+        all_dict = dict()  # 归类统计
+        for name, data in select_groupby:
+            print(name)	#分类名
+            print(len(data))	#符合数量
+6、获取某列数据：
+	channel_df = channel_banner_df.iloc[:, 11]	#获取第12列数据
+7、去除包含nan 的那行（列）
+	channel_df = channel_banner_df.iloc[:, 11].dropna(0) # ‘0’ 为列，‘1’为行
+8、筛选条件：
+	df = table_fitter_pd[table_fitter_pd.tid.isin([20])]     #筛选 table_fitter_pd 里 tid列 中值为 20 的数据
+        df = table_fitter_pd[table_fitter_pd['tid']>20]                 #筛选 tabble_fitter_pd 里 tid列 中值大于 20 的数据
+9、保留小数：
+	fitter_df[one_title] = fitter_df[one_title].round(decimals=1)	#保留 one_title 列 保留 1 位小数
+10、转小数为百分比：
+	fitter_df[one_title] = fitter_df[one_title].apply(lambda x: format(x, '.2%'))
+11、指定某一块数据：
+	fitter_df.loc[1:, one_title] = fitter_df.loc[1:, one_title].round(decimals=2).apply(
+                            lambda x: format(x, '.0%'))		#从读取从索引1开始往后的行数据，并且列名为 one_title 的数据替换为保留两位小数（四舍五入），并转小数为百分比显示
+12、除去 Nan 值：
+	com_df = df2.iloc[0:, 4:].fillna(0)     #除nan 为0
+13、删除列：
+	fitter_df = table_fitter_pd.drop(['tid'],axis=1)		#删除‘tid’列
+
+14、选择前几行和后几行
+	df.tail(10) 	#返回后10行
+	df.head(10)	#返回前10行

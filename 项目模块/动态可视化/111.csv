@@ -1,0 +1,3001 @@
+name,group,year,value
+kaiachi,Asia,1500,16162.29
+cairo,Middle East,1500,15363.53
+beijing,Asia,1500,14061.42
+New York,North America,1500,11696.0
+osaka,Asia,1500,17421.27
+shanghai,Asia,1500,14146.54
+kaiachi,Asia,1501,16235.75
+cairo,Middle East,1501,15361.68
+beijing,Asia,1501,14111.91
+New York,North America,1501,11650.73
+osaka,Asia,1501,17375.67
+shanghai,Asia,1501,14102.3
+kaiachi,Asia,1502,16210.69
+cairo,Middle East,1502,15446.54
+beijing,Asia,1502,14081.41
+New York,North America,1502,11605.03
+osaka,Asia,1502,17335.71
+shanghai,Asia,1502,14134.81
+kaiachi,Asia,1503,16201.79
+cairo,Middle East,1503,15453.54
+beijing,Asia,1503,14042.25
+New York,North America,1503,11682.0
+osaka,Asia,1503,17395.85
+shanghai,Asia,1503,14220.7
+kaiachi,Asia,1504,16224.91
+cairo,Middle East,1504,15492.94
+beijing,Asia,1504,13995.1
+New York,North America,1504,11641.83
+osaka,Asia,1504,17411.9
+shanghai,Asia,1504,14188.86
+kaiachi,Asia,1505,16214.48
+cairo,Middle East,1505,15586.33
+beijing,Asia,1505,14080.18
+New York,North America,1505,11660.32
+osaka,Asia,1505,17482.84
+shanghai,Asia,1505,14153.71
+kaiachi,Asia,1506,16306.44
+cairo,Middle East,1506,15663.75
+beijing,Asia,1506,14042.21
+New York,North America,1506,11699.0
+osaka,Asia,1506,17461.67
+shanghai,Asia,1506,14193.81
+kaiachi,Asia,1507,16266.45
+cairo,Middle East,1507,15763.23
+beijing,Asia,1507,14025.05
+New York,North America,1507,11694.02
+osaka,Asia,1507,17414.67
+shanghai,Asia,1507,14219.17
+kaiachi,Asia,1508,16256.03
+cairo,Middle East,1508,15838.17
+beijing,Asia,1508,14002.01
+New York,North America,1508,11647.04
+osaka,Asia,1508,17509.77
+shanghai,Asia,1508,14190.83
+kaiachi,Asia,1509,16213.66
+cairo,Middle East,1509,15903.14
+beijing,Asia,1509,14003.61
+New York,North America,1509,11616.69
+osaka,Asia,1509,17591.4
+shanghai,Asia,1509,14206.37
+kaiachi,Asia,1510,16285.03
+cairo,Middle East,1510,15964.11
+beijing,Asia,1510,14002.25
+New York,North America,1510,11645.15
+osaka,Asia,1510,17588.47
+shanghai,Asia,1510,14191.32
+kaiachi,Asia,1511,16345.44
+cairo,Middle East,1511,15915.27
+beijing,Asia,1511,14008.97
+New York,North America,1511,11707.17
+osaka,Asia,1511,17554.21
+shanghai,Asia,1511,14205.42
+kaiachi,Asia,1512,16304.12
+cairo,Middle East,1512,15885.68
+beijing,Asia,1512,14048.5
+New York,North America,1512,11714.33
+osaka,Asia,1512,17631.3
+shanghai,Asia,1512,14221.37
+kaiachi,Asia,1513,16269.03
+cairo,Middle East,1513,15849.74
+beijing,Asia,1513,14089.61
+New York,North America,1513,11720.83
+osaka,Asia,1513,17724.49
+shanghai,Asia,1513,14193.84
+kaiachi,Asia,1514,16306.1
+cairo,Middle East,1514,15804.01
+beijing,Asia,1514,14058.67
+New York,North America,1514,11692.19
+osaka,Asia,1514,17824.32
+shanghai,Asia,1514,14157.44
+kaiachi,Asia,1515,16302.09
+cairo,Middle East,1515,15850.84
+beijing,Asia,1515,14081.42
+New York,North America,1515,11696.65
+osaka,Asia,1515,17891.83
+shanghai,Asia,1515,14219.83
+kaiachi,Asia,1516,16306.19
+cairo,Middle East,1516,15867.39
+beijing,Asia,1516,14053.69
+New York,North America,1516,11719.03
+osaka,Asia,1516,17886.79
+shanghai,Asia,1516,14213.98
+kaiachi,Asia,1517,16401.75
+cairo,Middle East,1517,15834.31
+beijing,Asia,1517,14095.38
+New York,North America,1517,11682.9
+osaka,Asia,1517,17911.26
+shanghai,Asia,1517,14242.88
+kaiachi,Asia,1518,16465.1
+cairo,Middle East,1518,15844.0
+beijing,Asia,1518,14159.38
+New York,North America,1518,11643.38
+osaka,Asia,1518,17869.79
+shanghai,Asia,1518,14208.81
+kaiachi,Asia,1519,16469.75
+cairo,Middle East,1519,15874.89
+beijing,Asia,1519,14179.29
+New York,North America,1519,11660.22
+osaka,Asia,1519,17967.5
+shanghai,Asia,1519,14190.57
+kaiachi,Asia,1520,16475.62
+cairo,Middle East,1520,15872.32
+beijing,Asia,1520,14207.44
+New York,North America,1520,11615.54
+osaka,Asia,1520,17975.4
+shanghai,Asia,1520,14217.42
+kaiachi,Asia,1521,16499.3
+cairo,Middle East,1521,15855.12
+beijing,Asia,1521,14162.28
+New York,North America,1521,11613.94
+osaka,Asia,1521,17942.42
+shanghai,Asia,1521,14269.52
+kaiachi,Asia,1522,16560.88
+cairo,Middle East,1522,15845.77
+beijing,Asia,1522,14164.02
+New York,North America,1522,11657.76
+osaka,Asia,1522,18007.41
+shanghai,Asia,1522,14304.17
+kaiachi,Asia,1523,16573.18
+cairo,Middle East,1523,15860.74
+beijing,Asia,1523,14252.18
+New York,North America,1523,11674.46
+osaka,Asia,1523,18063.78
+shanghai,Asia,1523,14306.2
+kaiachi,Asia,1524,16523.3
+cairo,Middle East,1524,15854.56
+beijing,Asia,1524,14211.18
+New York,North America,1524,11641.03
+osaka,Asia,1524,18015.53
+shanghai,Asia,1524,14394.47
+kaiachi,Asia,1525,16542.39
+cairo,Middle East,1525,15898.49
+beijing,Asia,1525,14185.32
+New York,North America,1525,11611.4
+osaka,Asia,1525,18023.82
+shanghai,Asia,1525,14344.8
+kaiachi,Asia,1526,16498.14
+cairo,Middle East,1526,15980.88
+beijing,Asia,1526,14200.53
+New York,North America,1526,11611.73
+osaka,Asia,1526,18077.6
+shanghai,Asia,1526,14324.4
+kaiachi,Asia,1527,16590.76
+cairo,Middle East,1527,15987.12
+beijing,Asia,1527,14277.53
+New York,North America,1527,11661.42
+osaka,Asia,1527,18123.73
+shanghai,Asia,1527,14404.99
+kaiachi,Asia,1528,16592.31
+cairo,Middle East,1528,15976.36
+beijing,Asia,1528,14282.07
+New York,North America,1528,11668.17
+osaka,Asia,1528,18190.35
+shanghai,Asia,1528,14440.18
+kaiachi,Asia,1529,16614.43
+cairo,Middle East,1529,16005.41
+beijing,Asia,1529,14356.48
+New York,North America,1529,11669.96
+osaka,Asia,1529,18168.58
+shanghai,Asia,1529,14459.75
+kaiachi,Asia,1530,16706.88
+cairo,Middle East,1530,16051.47
+beijing,Asia,1530,14368.12
+New York,North America,1530,11654.33
+osaka,Asia,1530,18229.86
+shanghai,Asia,1530,14502.14
+kaiachi,Asia,1531,16674.81
+cairo,Middle East,1531,16048.0
+beijing,Asia,1531,14442.1
+New York,North America,1531,11649.58
+osaka,Asia,1531,18319.07
+shanghai,Asia,1531,14465.46
+kaiachi,Asia,1532,16648.1
+cairo,Middle East,1532,16068.45
+beijing,Asia,1532,14470.41
+New York,North America,1532,11601.3
+osaka,Asia,1532,18382.41
+shanghai,Asia,1532,14466.73
+kaiachi,Asia,1533,16732.55
+cairo,Middle East,1533,16130.38
+beijing,Asia,1533,14494.7
+New York,North America,1533,11583.55
+osaka,Asia,1533,18424.92
+shanghai,Asia,1533,14485.78
+kaiachi,Asia,1534,16756.96
+cairo,Middle East,1534,16178.79
+beijing,Asia,1534,14503.16
+New York,North America,1534,11648.16
+osaka,Asia,1534,18450.26
+shanghai,Asia,1534,14488.86
+kaiachi,Asia,1535,16807.15
+cairo,Middle East,1535,16231.58
+beijing,Asia,1535,14469.07
+New York,North America,1535,11646.95
+osaka,Asia,1535,18510.16
+shanghai,Asia,1535,14503.9
+kaiachi,Asia,1536,16819.43
+cairo,Middle East,1536,16316.24
+beijing,Asia,1536,14507.67
+New York,North America,1536,11711.88
+osaka,Asia,1536,18499.17
+shanghai,Asia,1536,14504.26
+kaiachi,Asia,1537,16815.56
+cairo,Middle East,1537,16330.72
+beijing,Asia,1537,14475.21
+New York,North America,1537,11676.77
+osaka,Asia,1537,18548.5
+shanghai,Asia,1537,14600.6
+kaiachi,Asia,1538,16886.68
+cairo,Middle East,1538,16339.97
+beijing,Asia,1538,14465.58
+New York,North America,1538,11765.18
+osaka,Asia,1538,18509.88
+shanghai,Asia,1538,14626.8
+kaiachi,Asia,1539,16892.08
+cairo,Middle East,1539,16320.99
+beijing,Asia,1539,14502.84
+New York,North America,1539,11750.97
+osaka,Asia,1539,18550.22
+shanghai,Asia,1539,14724.87
+kaiachi,Asia,1540,16896.0
+cairo,Middle East,1540,16410.21
+beijing,Asia,1540,14453.11
+New York,North America,1540,11802.49
+osaka,Asia,1540,18517.52
+shanghai,Asia,1540,14680.61
+kaiachi,Asia,1541,16935.6
+cairo,Middle East,1541,16425.02
+beijing,Asia,1541,14529.96
+New York,North America,1541,11867.38
+osaka,Asia,1541,18536.88
+shanghai,Asia,1541,14750.77
+kaiachi,Asia,1542,16959.47
+cairo,Middle East,1542,16417.44
+beijing,Asia,1542,14601.43
+New York,North America,1542,11938.08
+osaka,Asia,1542,18562.48
+shanghai,Asia,1542,14844.63
+kaiachi,Asia,1543,16916.24
+cairo,Middle East,1543,16420.69
+beijing,Asia,1543,14630.8
+New York,North America,1543,11945.36
+osaka,Asia,1543,18530.92
+shanghai,Asia,1543,14838.31
+kaiachi,Asia,1544,16913.38
+cairo,Middle East,1544,16498.68
+beijing,Asia,1544,14644.22
+New York,North America,1544,11909.19
+osaka,Asia,1544,18589.41
+shanghai,Asia,1544,14864.17
+kaiachi,Asia,1545,16912.84
+cairo,Middle East,1545,16572.39
+beijing,Asia,1545,14610.99
+New York,North America,1545,11976.51
+osaka,Asia,1545,18602.21
+shanghai,Asia,1545,14815.76
+kaiachi,Asia,1546,16967.97
+cairo,Middle East,1546,16574.35
+beijing,Asia,1546,14622.14
+New York,North America,1546,11995.76
+osaka,Asia,1546,18582.51
+shanghai,Asia,1546,14812.97
+kaiachi,Asia,1547,16920.39
+cairo,Middle East,1547,16598.82
+beijing,Asia,1547,14608.49
+New York,North America,1547,12027.67
+osaka,Asia,1547,18556.21
+shanghai,Asia,1547,14801.46
+kaiachi,Asia,1548,16990.48
+cairo,Middle East,1548,16599.87
+beijing,Asia,1548,14636.93
+New York,North America,1548,12064.71
+osaka,Asia,1548,18564.83
+shanghai,Asia,1548,14765.32
+kaiachi,Asia,1549,16954.17
+cairo,Middle East,1549,16610.88
+beijing,Asia,1549,14686.38
+New York,North America,1549,12104.03
+osaka,Asia,1549,18594.22
+shanghai,Asia,1549,14825.39
+kaiachi,Asia,1550,17019.46
+cairo,Middle East,1550,16641.93
+beijing,Asia,1550,14722.08
+New York,North America,1550,12194.07
+osaka,Asia,1550,18602.97
+shanghai,Asia,1550,14792.9
+kaiachi,Asia,1551,17075.42
+cairo,Middle East,1551,16633.13
+beijing,Asia,1551,14757.1
+New York,North America,1551,12284.97
+osaka,Asia,1551,18556.82
+shanghai,Asia,1551,14811.4
+kaiachi,Asia,1552,17071.37
+cairo,Middle East,1552,16655.82
+beijing,Asia,1552,14733.28
+New York,North America,1552,12302.25
+osaka,Asia,1552,18645.04
+shanghai,Asia,1552,14846.47
+kaiachi,Asia,1553,17079.6
+cairo,Middle East,1553,16644.96
+beijing,Asia,1553,14687.59
+New York,North America,1553,12272.55
+osaka,Asia,1553,18699.0
+shanghai,Asia,1553,14810.21
+kaiachi,Asia,1554,17177.38
+cairo,Middle East,1554,16737.36
+beijing,Asia,1554,14754.82
+New York,North America,1554,12332.98
+osaka,Asia,1554,18680.37
+shanghai,Asia,1554,14877.32
+kaiachi,Asia,1555,17146.43
+cairo,Middle East,1555,16806.37
+beijing,Asia,1555,14738.67
+New York,North America,1555,12385.94
+osaka,Asia,1555,18635.23
+shanghai,Asia,1555,14874.53
+kaiachi,Asia,1556,17188.08
+cairo,Middle East,1556,16823.73
+beijing,Asia,1556,14808.91
+New York,North America,1556,12401.64
+osaka,Asia,1556,18700.52
+shanghai,Asia,1556,14936.05
+kaiachi,Asia,1557,17172.94
+cairo,Middle East,1557,16783.55
+beijing,Asia,1557,14766.22
+New York,North America,1557,12394.21
+osaka,Asia,1557,18751.44
+shanghai,Asia,1557,15000.19
+kaiachi,Asia,1558,17253.19
+cairo,Middle East,1558,16785.89
+beijing,Asia,1558,14764.52
+New York,North America,1558,12348.07
+osaka,Asia,1558,18732.25
+shanghai,Asia,1558,14974.15
+kaiachi,Asia,1559,17212.72
+cairo,Middle East,1559,16755.85
+beijing,Asia,1559,14715.5
+New York,North America,1559,12432.39
+osaka,Asia,1559,18757.63
+shanghai,Asia,1559,14927.28
+kaiachi,Asia,1560,17236.73
+cairo,Middle East,1560,16802.32
+beijing,Asia,1560,14709.98
+New York,North America,1560,12413.73
+osaka,Asia,1560,18840.6
+shanghai,Asia,1560,14977.81
+kaiachi,Asia,1561,17289.1
+cairo,Middle East,1561,16855.77
+beijing,Asia,1561,14702.07
+New York,North America,1561,12512.21
+osaka,Asia,1561,18913.16
+shanghai,Asia,1561,14928.05
+kaiachi,Asia,1562,17369.79
+cairo,Middle East,1562,16881.23
+beijing,Asia,1562,14746.88
+New York,North America,1562,12541.3
+osaka,Asia,1562,18989.92
+shanghai,Asia,1562,15007.68
+kaiachi,Asia,1563,17390.87
+cairo,Middle East,1563,16874.74
+beijing,Asia,1563,14761.61
+New York,North America,1563,12576.71
+osaka,Asia,1563,18956.4
+shanghai,Asia,1563,15007.51
+kaiachi,Asia,1564,17450.78
+cairo,Middle East,1564,16867.46
+beijing,Asia,1564,14726.2
+New York,North America,1564,12600.5
+osaka,Asia,1564,18981.8
+shanghai,Asia,1564,15011.3
+kaiachi,Asia,1565,17490.14
+cairo,Middle East,1565,16935.64
+beijing,Asia,1565,14766.19
+New York,North America,1565,12684.19
+osaka,Asia,1565,19034.85
+shanghai,Asia,1565,15104.54
+kaiachi,Asia,1566,17587.53
+cairo,Middle East,1566,16889.74
+beijing,Asia,1566,14781.35
+New York,North America,1566,12656.21
+osaka,Asia,1566,19025.08
+shanghai,Asia,1566,15165.14
+kaiachi,Asia,1567,17598.14
+cairo,Middle East,1567,16950.49
+beijing,Asia,1567,14769.21
+New York,North America,1567,12722.95
+osaka,Asia,1567,19030.11
+shanghai,Asia,1567,15161.56
+kaiachi,Asia,1568,17660.16
+cairo,Middle East,1568,16929.15
+beijing,Asia,1568,14847.39
+New York,North America,1568,12718.1
+osaka,Asia,1568,19053.99
+shanghai,Asia,1568,15192.09
+kaiachi,Asia,1569,17743.45
+cairo,Middle East,1569,16948.08
+beijing,Asia,1569,14863.09
+New York,North America,1569,12707.35
+osaka,Asia,1569,19007.82
+shanghai,Asia,1569,15192.6
+kaiachi,Asia,1570,17817.45
+cairo,Middle East,1570,16962.5
+beijing,Asia,1570,14950.52
+New York,North America,1570,12775.47
+osaka,Asia,1570,19024.22
+shanghai,Asia,1570,15177.97
+kaiachi,Asia,1571,17788.51
+cairo,Middle East,1571,16969.76
+beijing,Asia,1571,14968.9
+New York,North America,1571,12831.27
+osaka,Asia,1571,19055.5
+shanghai,Asia,1571,15239.09
+kaiachi,Asia,1572,17754.21
+cairo,Middle East,1572,17051.68
+beijing,Asia,1572,15032.38
+New York,North America,1572,12800.49
+osaka,Asia,1572,19074.78
+shanghai,Asia,1572,15201.45
+kaiachi,Asia,1573,17836.69
+cairo,Middle East,1573,17012.38
+beijing,Asia,1573,15109.23
+New York,North America,1573,12774.63
+osaka,Asia,1573,19169.04
+shanghai,Asia,1573,15214.25
+kaiachi,Asia,1574,17878.41
+cairo,Middle East,1574,16986.63
+beijing,Asia,1574,15202.52
+New York,North America,1574,12825.57
+osaka,Asia,1574,19256.32
+shanghai,Asia,1574,15201.89
+kaiachi,Asia,1575,17829.83
+cairo,Middle East,1575,17004.87
+beijing,Asia,1575,15241.67
+New York,North America,1575,12827.95
+osaka,Asia,1575,19331.37
+shanghai,Asia,1575,15225.74
+kaiachi,Asia,1576,17883.07
+cairo,Middle East,1576,17091.58
+beijing,Asia,1576,15294.15
+New York,North America,1576,12877.54
+osaka,Asia,1576,19379.13
+shanghai,Asia,1576,15270.57
+kaiachi,Asia,1577,17895.34
+cairo,Middle East,1577,17125.08
+beijing,Asia,1577,15294.58
+New York,North America,1577,12877.69
+osaka,Asia,1577,19331.43
+shanghai,Asia,1577,15236.32
+kaiachi,Asia,1578,17963.24
+cairo,Middle East,1578,17191.27
+beijing,Asia,1578,15348.51
+New York,North America,1578,12912.96
+osaka,Asia,1578,19311.52
+shanghai,Asia,1578,15291.48
+kaiachi,Asia,1579,17966.16
+cairo,Middle East,1579,17272.02
+beijing,Asia,1579,15326.07
+New York,North America,1579,12945.12
+osaka,Asia,1579,19309.99
+shanghai,Asia,1579,15285.31
+kaiachi,Asia,1580,17922.03
+cairo,Middle East,1580,17289.72
+beijing,Asia,1580,15391.48
+New York,North America,1580,12975.7
+osaka,Asia,1580,19288.78
+shanghai,Asia,1580,15363.38
+kaiachi,Asia,1581,18006.68
+cairo,Middle East,1581,17304.35
+beijing,Asia,1581,15488.11
+New York,North America,1581,13019.94
+osaka,Asia,1581,19324.57
+shanghai,Asia,1581,15451.98
+kaiachi,Asia,1582,18089.09
+cairo,Middle East,1582,17331.19
+beijing,Asia,1582,15546.35
+New York,North America,1582,12994.77
+osaka,Asia,1582,19363.99
+shanghai,Asia,1582,15542.46
+kaiachi,Asia,1583,18170.98
+cairo,Middle East,1583,17310.14
+beijing,Asia,1583,15532.96
+New York,North America,1583,13087.96
+osaka,Asia,1583,19373.53
+shanghai,Asia,1583,15634.39
+kaiachi,Asia,1584,18219.74
+cairo,Middle East,1584,17343.15
+beijing,Asia,1584,15584.35
+New York,North America,1584,13103.55
+osaka,Asia,1584,19442.9
+shanghai,Asia,1584,15706.1
+kaiachi,Asia,1585,18302.28
+cairo,Middle East,1585,17404.81
+beijing,Asia,1585,15658.2
+New York,North America,1585,13072.84
+osaka,Asia,1585,19409.11
+shanghai,Asia,1585,15665.17
+kaiachi,Asia,1586,18376.91
+cairo,Middle East,1586,17384.22
+beijing,Asia,1586,15670.68
+New York,North America,1586,13127.13
+osaka,Asia,1586,19505.75
+shanghai,Asia,1586,15738.76
+kaiachi,Asia,1587,18447.96
+cairo,Middle East,1587,17470.33
+beijing,Asia,1587,15715.8
+New York,North America,1587,13119.11
+osaka,Asia,1587,19480.04
+shanghai,Asia,1587,15712.63
+kaiachi,Asia,1588,18436.99
+cairo,Middle East,1588,17467.58
+beijing,Asia,1588,15705.16
+New York,North America,1588,13098.38
+osaka,Asia,1588,19537.97
+shanghai,Asia,1588,15683.19
+kaiachi,Asia,1589,18526.14
+cairo,Middle East,1589,17554.23
+beijing,Asia,1589,15682.19
+New York,North America,1589,13122.62
+osaka,Asia,1589,19535.13
+shanghai,Asia,1589,15640.44
+kaiachi,Asia,1590,18590.39
+cairo,Middle East,1590,17573.07
+beijing,Asia,1590,15682.0
+New York,North America,1590,13093.04
+osaka,Asia,1590,19486.44
+shanghai,Asia,1590,15628.92
+kaiachi,Asia,1591,18575.68
+cairo,Middle East,1591,17571.69
+beijing,Asia,1591,15744.34
+New York,North America,1591,13138.99
+osaka,Asia,1591,19519.3
+shanghai,Asia,1591,15674.68
+kaiachi,Asia,1592,18663.44
+cairo,Middle East,1592,17592.89
+beijing,Asia,1592,15738.01
+New York,North America,1592,13237.09
+osaka,Asia,1592,19556.89
+shanghai,Asia,1592,15667.66
+kaiachi,Asia,1593,18637.33
+cairo,Middle East,1593,17553.04
+beijing,Asia,1593,15823.06
+New York,North America,1593,13283.09
+osaka,Asia,1593,19537.93
+shanghai,Asia,1593,15764.13
+kaiachi,Asia,1594,18646.74
+cairo,Middle East,1594,17524.82
+beijing,Asia,1594,15820.84
+New York,North America,1594,13313.86
+osaka,Asia,1594,19495.93
+shanghai,Asia,1594,15754.93
+kaiachi,Asia,1595,18681.48
+cairo,Middle East,1595,17525.68
+beijing,Asia,1595,15866.47
+New York,North America,1595,13324.82
+osaka,Asia,1595,19470.4
+shanghai,Asia,1595,15851.35
+kaiachi,Asia,1596,18646.2
+cairo,Middle East,1596,17553.13
+beijing,Asia,1596,15937.02
+New York,North America,1596,13322.69
+osaka,Asia,1596,19434.05
+shanghai,Asia,1596,15834.87
+kaiachi,Asia,1597,18733.46
+cairo,Middle East,1597,17590.26
+beijing,Asia,1597,15961.76
+New York,North America,1597,13333.8
+osaka,Asia,1597,19515.2
+shanghai,Asia,1597,15882.56
+kaiachi,Asia,1598,18740.7
+cairo,Middle East,1598,17665.36
+beijing,Asia,1598,15993.07
+New York,North America,1598,13411.35
+osaka,Asia,1598,19612.72
+shanghai,Asia,1598,15915.47
+kaiachi,Asia,1599,18706.19
+cairo,Middle East,1599,17695.43
+beijing,Asia,1599,16006.46
+New York,North America,1599,13376.36
+osaka,Asia,1599,19671.51
+shanghai,Asia,1599,15963.57
+kaiachi,Asia,1600,18766.04
+cairo,Middle East,1600,17710.87
+beijing,Asia,1600,15979.47
+New York,North America,1600,13391.23
+osaka,Asia,1600,19750.97
+shanghai,Asia,1600,15929.94
+kaiachi,Asia,1601,18857.29
+cairo,Middle East,1601,17744.74
+beijing,Asia,1601,15998.63
+New York,North America,1601,13372.74
+osaka,Asia,1601,19787.1
+shanghai,Asia,1601,15913.81
+kaiachi,Asia,1602,18869.43
+cairo,Middle East,1602,17838.02
+beijing,Asia,1602,15979.53
+New York,North America,1602,13367.94
+osaka,Asia,1602,19844.41
+shanghai,Asia,1602,15919.64
+kaiachi,Asia,1603,18930.93
+cairo,Middle East,1603,17859.35
+beijing,Asia,1603,16017.41
+New York,North America,1603,13456.91
+osaka,Asia,1603,19897.1
+shanghai,Asia,1603,15990.47
+kaiachi,Asia,1604,18928.38
+cairo,Middle East,1604,17815.3
+beijing,Asia,1604,16002.31
+New York,North America,1604,13488.87
+osaka,Asia,1604,19903.62
+shanghai,Asia,1604,16049.92
+kaiachi,Asia,1605,18996.98
+cairo,Middle East,1605,17905.46
+beijing,Asia,1605,16004.64
+New York,North America,1605,13490.26
+osaka,Asia,1605,19876.21
+shanghai,Asia,1605,16123.19
+kaiachi,Asia,1606,18964.81
+cairo,Middle East,1606,17907.08
+beijing,Asia,1606,16051.73
+New York,North America,1606,13523.81
+osaka,Asia,1606,19839.98
+shanghai,Asia,1606,16188.66
+kaiachi,Asia,1607,19022.52
+cairo,Middle East,1607,17913.3
+beijing,Asia,1607,16064.0
+New York,North America,1607,13526.73
+osaka,Asia,1607,19894.23
+shanghai,Asia,1607,16284.86
+kaiachi,Asia,1608,19112.39
+cairo,Middle East,1608,17916.41
+beijing,Asia,1608,16030.92
+New York,North America,1608,13584.67
+osaka,Asia,1608,19882.2
+shanghai,Asia,1608,16338.46
+kaiachi,Asia,1609,19123.76
+cairo,Middle East,1609,18004.54
+beijing,Asia,1609,16084.38
+New York,North America,1609,13579.33
+osaka,Asia,1609,19887.0
+shanghai,Asia,1609,16429.97
+kaiachi,Asia,1610,19151.21
+cairo,Middle East,1610,18004.94
+beijing,Asia,1610,16039.01
+New York,North America,1610,13644.99
+osaka,Asia,1610,19930.89
+shanghai,Asia,1610,16381.33
+kaiachi,Asia,1611,19242.47
+cairo,Middle East,1611,18000.28
+beijing,Asia,1611,16066.89
+New York,North America,1611,13742.53
+osaka,Asia,1611,19990.57
+shanghai,Asia,1611,16449.7
+kaiachi,Asia,1612,19305.11
+cairo,Middle East,1612,17951.66
+beijing,Asia,1612,16136.59
+New York,North America,1612,13804.92
+osaka,Asia,1612,20049.09
+shanghai,Asia,1612,16414.83
+kaiachi,Asia,1613,19291.95
+cairo,Middle East,1613,17949.12
+beijing,Asia,1613,16164.33
+New York,North America,1613,13778.6
+osaka,Asia,1613,20140.76
+shanghai,Asia,1613,16449.92
+kaiachi,Asia,1614,19267.33
+cairo,Middle East,1614,17967.5
+beijing,Asia,1614,16133.01
+New York,North America,1614,13754.26
+osaka,Asia,1614,20181.91
+shanghai,Asia,1614,16541.8
+kaiachi,Asia,1615,19293.41
+cairo,Middle East,1615,17926.19
+beijing,Asia,1615,16101.92
+New York,North America,1615,13842.23
+osaka,Asia,1615,20183.88
+shanghai,Asia,1615,16565.08
+kaiachi,Asia,1616,19385.39
+cairo,Middle East,1616,17988.3
+beijing,Asia,1616,16116.7
+New York,North America,1616,13898.91
+osaka,Asia,1616,20280.2
+shanghai,Asia,1616,16530.54
+kaiachi,Asia,1617,19351.45
+cairo,Middle East,1617,18039.33
+beijing,Asia,1617,16099.76
+New York,North America,1617,13945.89
+osaka,Asia,1617,20375.32
+shanghai,Asia,1617,16526.25
+kaiachi,Asia,1618,19423.43
+cairo,Middle East,1618,18127.74
+beijing,Asia,1618,16107.94
+New York,North America,1618,14002.15
+osaka,Asia,1618,20418.31
+shanghai,Asia,1618,16529.26
+kaiachi,Asia,1619,19520.86
+cairo,Middle East,1619,18220.32
+beijing,Asia,1619,16123.92
+New York,North America,1619,14060.76
+osaka,Asia,1619,20400.27
+shanghai,Asia,1619,16618.86
+kaiachi,Asia,1620,19605.16
+cairo,Middle East,1620,18174.84
+beijing,Asia,1620,16177.24
+New York,North America,1620,14107.09
+osaka,Asia,1620,20445.88
+shanghai,Asia,1620,16626.38
+kaiachi,Asia,1621,19563.72
+cairo,Middle East,1621,18241.39
+beijing,Asia,1621,16238.18
+New York,North America,1621,14125.06
+osaka,Asia,1621,20415.04
+shanghai,Asia,1621,16593.85
+kaiachi,Asia,1622,19639.33
+cairo,Middle East,1622,18279.55
+beijing,Asia,1622,16233.4
+New York,North America,1622,14179.0
+osaka,Asia,1622,20372.49
+shanghai,Asia,1622,16655.71
+kaiachi,Asia,1623,19633.1
+cairo,Middle East,1623,18275.88
+beijing,Asia,1623,16233.98
+New York,North America,1623,14271.99
+osaka,Asia,1623,20356.11
+shanghai,Asia,1623,16648.0
+kaiachi,Asia,1624,19660.2
+cairo,Middle East,1624,18336.99
+beijing,Asia,1624,16228.03
+New York,North America,1624,14357.51
+osaka,Asia,1624,20412.24
+shanghai,Asia,1624,16682.56
+kaiachi,Asia,1625,19647.09
+cairo,Middle East,1625,18340.33
+beijing,Asia,1625,16208.22
+New York,North America,1625,14397.79
+osaka,Asia,1625,20429.67
+shanghai,Asia,1625,16656.19
+kaiachi,Asia,1626,19603.94
+cairo,Middle East,1626,18343.28
+beijing,Asia,1626,16191.9
+New York,North America,1626,14423.33
+osaka,Asia,1626,20487.4
+shanghai,Asia,1626,16677.1
+kaiachi,Asia,1627,19561.71
+cairo,Middle East,1627,18311.6
+beijing,Asia,1627,16194.57
+New York,North America,1627,14437.34
+osaka,Asia,1627,20497.78
+shanghai,Asia,1627,16648.03
+kaiachi,Asia,1628,19564.69
+cairo,Middle East,1628,18271.22
+beijing,Asia,1628,16252.84
+New York,North America,1628,14396.23
+osaka,Asia,1628,20484.44
+shanghai,Asia,1628,16648.57
+kaiachi,Asia,1629,19530.41
+cairo,Middle East,1629,18327.61
+beijing,Asia,1629,16321.53
+New York,North America,1629,14398.0
+osaka,Asia,1629,20539.78
+shanghai,Asia,1629,16748.2
+kaiachi,Asia,1630,19601.08
+cairo,Middle East,1630,18313.63
+beijing,Asia,1630,16364.72
+New York,North America,1630,14367.59
+osaka,Asia,1630,20570.37
+shanghai,Asia,1630,16754.29
+kaiachi,Asia,1631,19679.21
+cairo,Middle East,1631,18306.41
+beijing,Asia,1631,16357.97
+New York,North America,1631,14423.37
+osaka,Asia,1631,20641.93
+shanghai,Asia,1631,16815.17
+kaiachi,Asia,1632,19693.29
+cairo,Middle East,1632,18290.9
+beijing,Asia,1632,16349.47
+New York,North America,1632,14520.89
+osaka,Asia,1632,20716.09
+shanghai,Asia,1632,16804.79
+kaiachi,Asia,1633,19688.16
+cairo,Middle East,1633,18329.06
+beijing,Asia,1633,16385.16
+New York,North America,1633,14534.0
+osaka,Asia,1633,20765.7
+shanghai,Asia,1633,16769.08
+kaiachi,Asia,1634,19736.47
+cairo,Middle East,1634,18313.57
+beijing,Asia,1634,16358.1
+New York,North America,1634,14580.6
+osaka,Asia,1634,20821.69
+shanghai,Asia,1634,16727.21
+kaiachi,Asia,1635,19811.6
+cairo,Middle East,1635,18286.41
+beijing,Asia,1635,16419.08
+New York,North America,1635,14678.05
+osaka,Asia,1635,20810.34
+shanghai,Asia,1635,16753.41
+kaiachi,Asia,1636,19853.25
+cairo,Middle East,1636,18318.91
+beijing,Asia,1636,16398.75
+New York,North America,1636,14753.78
+osaka,Asia,1636,20781.06
+shanghai,Asia,1636,16729.31
+kaiachi,Asia,1637,19929.37
+cairo,Middle East,1637,18386.38
+beijing,Asia,1637,16352.02
+New York,North America,1637,14776.84
+osaka,Asia,1637,20863.23
+shanghai,Asia,1637,16731.99
+kaiachi,Asia,1638,19969.77
+cairo,Middle East,1638,18402.41
+beijing,Asia,1638,16349.49
+New York,North America,1638,14777.68
+osaka,Asia,1638,20885.24
+shanghai,Asia,1638,16761.13
+kaiachi,Asia,1639,20032.73
+cairo,Middle East,1639,18479.98
+beijing,Asia,1639,16347.4
+New York,North America,1639,14872.56
+osaka,Asia,1639,20953.38
+shanghai,Asia,1639,16853.18
+kaiachi,Asia,1640,20003.38
+cairo,Middle East,1640,18566.83
+beijing,Asia,1640,16368.41
+New York,North America,1640,14843.3
+osaka,Asia,1640,21016.75
+shanghai,Asia,1640,16823.95
+kaiachi,Asia,1641,20010.93
+cairo,Middle East,1641,18545.15
+beijing,Asia,1641,16428.07
+New York,North America,1641,14890.8
+osaka,Asia,1641,21112.87
+shanghai,Asia,1641,16843.07
+kaiachi,Asia,1642,20047.51
+cairo,Middle East,1642,18622.66
+beijing,Asia,1642,16521.51
+New York,North America,1642,14966.81
+osaka,Asia,1642,21168.83
+shanghai,Asia,1642,16864.36
+kaiachi,Asia,1643,20077.49
+cairo,Middle East,1643,18721.96
+beijing,Asia,1643,16561.29
+New York,North America,1643,15047.67
+osaka,Asia,1643,21228.85
+shanghai,Asia,1643,16886.81
+kaiachi,Asia,1644,20028.88
+cairo,Middle East,1644,18729.23
+beijing,Asia,1644,16623.72
+New York,North America,1644,15013.29
+osaka,Asia,1644,21218.9
+shanghai,Asia,1644,16868.88
+kaiachi,Asia,1645,20071.47
+cairo,Middle East,1645,18713.17
+beijing,Asia,1645,16636.94
+New York,North America,1645,15040.69
+osaka,Asia,1645,21219.7
+shanghai,Asia,1645,16910.3
+kaiachi,Asia,1646,20044.75
+cairo,Middle East,1646,18802.39
+beijing,Asia,1646,16633.05
+New York,North America,1646,15131.71
+osaka,Asia,1646,21280.49
+shanghai,Asia,1646,16867.55
+kaiachi,Asia,1647,20069.07
+cairo,Middle East,1647,18779.42
+beijing,Asia,1647,16686.46
+New York,North America,1647,15217.48
+osaka,Asia,1647,21355.39
+shanghai,Asia,1647,16926.58
+kaiachi,Asia,1648,20025.57
+cairo,Middle East,1648,18811.54
+beijing,Asia,1648,16713.31
+New York,North America,1648,15298.72
+osaka,Asia,1648,21429.95
+shanghai,Asia,1648,16933.48
+kaiachi,Asia,1649,20113.87
+cairo,Middle East,1649,18801.11
+beijing,Asia,1649,16779.52
+New York,North America,1649,15333.01
+osaka,Asia,1649,21381.61
+shanghai,Asia,1649,16922.33
+kaiachi,Asia,1650,20098.23
+cairo,Middle East,1650,18800.26
+beijing,Asia,1650,16763.51
+New York,North America,1650,15402.4
+osaka,Asia,1650,21354.86
+shanghai,Asia,1650,16931.72
+kaiachi,Asia,1651,20112.74
+cairo,Middle East,1651,18766.52
+beijing,Asia,1651,16763.46
+New York,North America,1651,15415.33
+osaka,Asia,1651,21366.32
+shanghai,Asia,1651,16902.98
+kaiachi,Asia,1652,20182.07
+cairo,Middle East,1652,18730.78
+beijing,Asia,1652,16768.57
+New York,North America,1652,15401.59
+osaka,Asia,1652,21380.38
+shanghai,Asia,1652,16959.68
+kaiachi,Asia,1653,20274.2
+cairo,Middle East,1653,18816.96
+beijing,Asia,1653,16729.74
+New York,North America,1653,15426.89
+osaka,Asia,1653,21472.68
+shanghai,Asia,1653,17047.52
+kaiachi,Asia,1654,20338.33
+cairo,Middle East,1654,18785.0
+beijing,Asia,1654,16728.62
+New York,North America,1654,15385.56
+osaka,Asia,1654,21564.91
+shanghai,Asia,1654,17023.93
+kaiachi,Asia,1655,20297.44
+cairo,Middle East,1655,18775.99
+beijing,Asia,1655,16755.23
+New York,North America,1655,15354.84
+osaka,Asia,1655,21619.51
+shanghai,Asia,1655,16999.61
+kaiachi,Asia,1656,20315.25
+cairo,Middle East,1656,18733.86
+beijing,Asia,1656,16809.04
+New York,North America,1656,15340.47
+osaka,Asia,1656,21662.97
+shanghai,Asia,1656,17061.7
+kaiachi,Asia,1657,20340.44
+cairo,Middle East,1657,18762.01
+beijing,Asia,1657,16898.94
+New York,North America,1657,15366.9
+osaka,Asia,1657,21620.18
+shanghai,Asia,1657,17016.26
+kaiachi,Asia,1658,20394.62
+cairo,Middle East,1658,18748.81
+beijing,Asia,1658,16851.34
+New York,North America,1658,15339.45
+osaka,Asia,1658,21626.97
+shanghai,Asia,1658,17072.23
+kaiachi,Asia,1659,20455.92
+cairo,Middle East,1659,18734.51
+beijing,Asia,1659,16897.43
+New York,North America,1659,15390.92
+osaka,Asia,1659,21705.44
+shanghai,Asia,1659,17150.02
+kaiachi,Asia,1660,20478.03
+cairo,Middle East,1660,18734.29
+beijing,Asia,1660,16884.51
+New York,North America,1660,15455.57
+osaka,Asia,1660,21747.48
+shanghai,Asia,1660,17247.62
+kaiachi,Asia,1661,20428.28
+cairo,Middle East,1661,18828.28
+beijing,Asia,1661,16888.6
+New York,North America,1661,15488.84
+osaka,Asia,1661,21845.08
+shanghai,Asia,1661,17343.08
+kaiachi,Asia,1662,20436.27
+cairo,Middle East,1662,18851.84
+beijing,Asia,1662,16864.6
+New York,North America,1662,15500.32
+osaka,Asia,1662,21916.56
+shanghai,Asia,1662,17367.77
+kaiachi,Asia,1663,20393.88
+cairo,Middle East,1663,18936.11
+beijing,Asia,1663,16946.41
+New York,North America,1663,15475.53
+osaka,Asia,1663,21976.04
+shanghai,Asia,1663,17453.63
+kaiachi,Asia,1664,20454.66
+cairo,Middle East,1664,18924.21
+beijing,Asia,1664,16947.74
+New York,North America,1664,15571.71
+osaka,Asia,1664,21947.67
+shanghai,Asia,1664,17438.4
+kaiachi,Asia,1665,20471.84
+cairo,Middle East,1665,18919.13
+beijing,Asia,1665,17023.39
+New York,North America,1665,15633.54
+osaka,Asia,1665,21987.34
+shanghai,Asia,1665,17490.45
+kaiachi,Asia,1666,20567.42
+cairo,Middle East,1666,18952.61
+beijing,Asia,1666,16984.29
+New York,North America,1666,15604.31
+osaka,Asia,1666,21943.88
+shanghai,Asia,1666,17562.59
+kaiachi,Asia,1667,20663.92
+cairo,Middle East,1667,19012.49
+beijing,Asia,1667,16991.45
+New York,North America,1667,15618.24
+osaka,Asia,1667,22037.52
+shanghai,Asia,1667,17581.73
+kaiachi,Asia,1668,20660.57
+cairo,Middle East,1668,18997.45
+beijing,Asia,1668,17023.36
+New York,North America,1668,15627.19
+osaka,Asia,1668,22011.74
+shanghai,Asia,1668,17619.69
+kaiachi,Asia,1669,20687.98
+cairo,Middle East,1669,19050.74
+beijing,Asia,1669,17007.66
+New York,North America,1669,15602.25
+osaka,Asia,1669,21972.93
+shanghai,Asia,1669,17703.49
+kaiachi,Asia,1670,20656.49
+cairo,Middle East,1670,19053.53
+beijing,Asia,1670,17051.03
+New York,North America,1670,15627.56
+osaka,Asia,1670,21952.56
+shanghai,Asia,1670,17742.22
+kaiachi,Asia,1671,20673.53
+cairo,Middle East,1671,19122.58
+beijing,Asia,1671,17020.89
+New York,North America,1671,15588.57
+osaka,Asia,1671,22033.54
+shanghai,Asia,1671,17817.44
+kaiachi,Asia,1672,20707.37
+cairo,Middle East,1672,19171.22
+beijing,Asia,1672,17036.18
+New York,North America,1672,15604.78
+osaka,Asia,1672,22035.72
+shanghai,Asia,1672,17793.44
+kaiachi,Asia,1673,20758.14
+cairo,Middle East,1673,19240.5
+beijing,Asia,1673,17027.41
+New York,North America,1673,15581.4
+osaka,Asia,1673,22102.86
+shanghai,Asia,1673,17771.91
+kaiachi,Asia,1674,20755.92
+cairo,Middle East,1674,19196.52
+beijing,Asia,1674,17099.5
+New York,North America,1674,15537.37
+osaka,Asia,1674,22157.81
+shanghai,Asia,1674,17850.24
+kaiachi,Asia,1675,20759.48
+cairo,Middle East,1675,19168.44
+beijing,Asia,1675,17077.23
+New York,North America,1675,15487.49
+osaka,Asia,1675,22113.52
+shanghai,Asia,1675,17948.81
+kaiachi,Asia,1676,20808.77
+cairo,Middle East,1676,19224.88
+beijing,Asia,1676,17079.39
+New York,North America,1676,15513.92
+osaka,Asia,1676,22193.39
+shanghai,Asia,1676,18009.28
+kaiachi,Asia,1677,20883.38
+cairo,Middle East,1677,19243.31
+beijing,Asia,1677,17085.76
+New York,North America,1677,15487.44
+osaka,Asia,1677,22223.88
+shanghai,Asia,1677,17995.61
+kaiachi,Asia,1678,20916.13
+cairo,Middle East,1678,19245.72
+beijing,Asia,1678,17055.59
+New York,North America,1678,15540.33
+osaka,Asia,1678,22181.5
+shanghai,Asia,1678,17985.65
+kaiachi,Asia,1679,20982.89
+cairo,Middle East,1679,19262.27
+beijing,Asia,1679,17144.15
+New York,North America,1679,15618.83
+osaka,Asia,1679,22236.4
+shanghai,Asia,1679,17989.05
+kaiachi,Asia,1680,21007.77
+cairo,Middle East,1680,19320.6
+beijing,Asia,1680,17167.87
+New York,North America,1680,15618.15
+osaka,Asia,1680,22317.05
+shanghai,Asia,1680,18029.92
+kaiachi,Asia,1681,20965.32
+cairo,Middle East,1681,19318.81
+beijing,Asia,1681,17126.87
+New York,North America,1681,15596.4
+osaka,Asia,1681,22392.48
+shanghai,Asia,1681,18055.4
+kaiachi,Asia,1682,21017.38
+cairo,Middle East,1682,19377.63
+beijing,Asia,1682,17136.11
+New York,North America,1682,15639.19
+osaka,Asia,1682,22436.26
+shanghai,Asia,1682,18118.92
+kaiachi,Asia,1683,21059.77
+cairo,Middle East,1683,19384.63
+beijing,Asia,1683,17150.01
+New York,North America,1683,15604.38
+osaka,Asia,1683,22404.9
+shanghai,Asia,1683,18124.32
+kaiachi,Asia,1684,21137.65
+cairo,Middle East,1684,19481.02
+beijing,Asia,1684,17181.23
+New York,North America,1684,15643.35
+osaka,Asia,1684,22385.11
+shanghai,Asia,1684,18133.93
+kaiachi,Asia,1685,21090.01
+cairo,Middle East,1685,19533.19
+beijing,Asia,1685,17266.95
+New York,North America,1685,15687.72
+osaka,Asia,1685,22455.56
+shanghai,Asia,1685,18124.35
+kaiachi,Asia,1686,21079.91
+cairo,Middle East,1686,19503.53
+beijing,Asia,1686,17218.85
+New York,North America,1686,15758.02
+osaka,Asia,1686,22443.21
+shanghai,Asia,1686,18223.01
+kaiachi,Asia,1687,21154.11
+cairo,Middle East,1687,19514.96
+beijing,Asia,1687,17297.55
+New York,North America,1687,15846.66
+osaka,Asia,1687,22396.65
+shanghai,Asia,1687,18213.96
+kaiachi,Asia,1688,21145.8
+cairo,Middle East,1688,19609.78
+beijing,Asia,1688,17253.4
+New York,North America,1688,15881.57
+osaka,Asia,1688,22422.87
+shanghai,Asia,1688,18206.06
+kaiachi,Asia,1689,21194.57
+cairo,Middle East,1689,19622.35
+beijing,Asia,1689,17257.66
+New York,North America,1689,15853.02
+osaka,Asia,1689,22392.44
+shanghai,Asia,1689,18290.46
+kaiachi,Asia,1690,21231.94
+cairo,Middle East,1690,19655.33
+beijing,Asia,1690,17293.09
+New York,North America,1690,15852.14
+osaka,Asia,1690,22367.71
+shanghai,Asia,1690,18339.07
+kaiachi,Asia,1691,21316.5
+cairo,Middle East,1691,19639.05
+beijing,Asia,1691,17350.84
+New York,North America,1691,15932.2
+osaka,Asia,1691,22422.33
+shanghai,Asia,1691,18435.37
+kaiachi,Asia,1692,21384.01
+cairo,Middle East,1692,19707.1
+beijing,Asia,1692,17408.7
+New York,North America,1692,15898.72
+osaka,Asia,1692,22431.77
+shanghai,Asia,1692,18466.37
+kaiachi,Asia,1693,21425.83
+cairo,Middle East,1693,19663.51
+beijing,Asia,1693,17424.91
+New York,North America,1693,15989.35
+osaka,Asia,1693,22385.25
+shanghai,Asia,1693,18494.85
+kaiachi,Asia,1694,21438.37
+cairo,Middle East,1694,19637.94
+beijing,Asia,1694,17482.32
+New York,North America,1694,15955.16
+osaka,Asia,1694,22389.16
+shanghai,Asia,1694,18592.34
+kaiachi,Asia,1695,21413.43
+cairo,Middle East,1695,19654.52
+beijing,Asia,1695,17527.41
+New York,North America,1695,15955.97
+osaka,Asia,1695,22485.45
+shanghai,Asia,1695,18556.11
+kaiachi,Asia,1696,21380.19
+cairo,Middle East,1696,19700.29
+beijing,Asia,1696,17587.97
+New York,North America,1696,15913.7
+osaka,Asia,1696,22508.95
+shanghai,Asia,1696,18653.07
+kaiachi,Asia,1697,21445.09
+cairo,Middle East,1697,19763.62
+beijing,Asia,1697,17631.71
+New York,North America,1697,15922.76
+osaka,Asia,1697,22547.13
+shanghai,Asia,1697,18730.62
+kaiachi,Asia,1698,21416.36
+cairo,Middle East,1698,19818.25
+beijing,Asia,1698,17661.04
+New York,North America,1698,15992.4
+osaka,Asia,1698,22514.59
+shanghai,Asia,1698,18774.6
+kaiachi,Asia,1699,21401.26
+cairo,Middle East,1699,19883.43
+beijing,Asia,1699,17631.37
+New York,North America,1699,15975.14
+osaka,Asia,1699,22579.3
+shanghai,Asia,1699,18844.28
+kaiachi,Asia,1700,21450.29
+cairo,Middle East,1700,19871.84
+beijing,Asia,1700,17681.01
+New York,North America,1700,15969.14
+osaka,Asia,1700,22646.31
+shanghai,Asia,1700,18837.8
+kaiachi,Asia,1701,21489.55
+cairo,Middle East,1701,19908.0
+beijing,Asia,1701,17650.6
+New York,North America,1701,16053.76
+osaka,Asia,1701,22645.98
+shanghai,Asia,1701,18827.36
+kaiachi,Asia,1702,21470.32
+cairo,Middle East,1702,19901.3
+beijing,Asia,1702,17723.43
+New York,North America,1702,16101.58
+osaka,Asia,1702,22740.5
+shanghai,Asia,1702,18801.72
+kaiachi,Asia,1703,21470.55
+cairo,Middle East,1703,19886.93
+beijing,Asia,1703,17684.67
+New York,North America,1703,16114.39
+osaka,Asia,1703,22702.15
+shanghai,Asia,1703,18881.23
+kaiachi,Asia,1704,21519.3
+cairo,Middle East,1704,19935.73
+beijing,Asia,1704,17770.47
+New York,North America,1704,16165.77
+osaka,Asia,1704,22767.87
+shanghai,Asia,1704,18978.95
+kaiachi,Asia,1705,21581.08
+cairo,Middle East,1705,19933.08
+beijing,Asia,1705,17764.44
+New York,North America,1705,16252.5
+osaka,Asia,1705,22838.39
+shanghai,Asia,1705,19044.23
+kaiachi,Asia,1706,21573.15
+cairo,Middle East,1706,19998.4
+beijing,Asia,1706,17746.29
+New York,North America,1706,16212.36
+osaka,Asia,1706,22800.01
+shanghai,Asia,1706,19120.59
+kaiachi,Asia,1707,21605.58
+cairo,Middle East,1707,20026.59
+beijing,Asia,1707,17747.9
+New York,North America,1707,16267.86
+osaka,Asia,1707,22859.44
+shanghai,Asia,1707,19147.66
+kaiachi,Asia,1708,21584.51
+cairo,Middle East,1708,19980.31
+beijing,Asia,1708,17727.86
+New York,North America,1708,16321.68
+osaka,Asia,1708,22825.83
+shanghai,Asia,1708,19154.36
+kaiachi,Asia,1709,21560.11
+cairo,Middle East,1709,19934.71
+beijing,Asia,1709,17710.89
+New York,North America,1709,16370.25
+osaka,Asia,1709,22785.55
+shanghai,Asia,1709,19231.04
+kaiachi,Asia,1710,21560.01
+cairo,Middle East,1710,19889.11
+beijing,Asia,1710,17777.56
+New York,North America,1710,16381.48
+osaka,Asia,1710,22881.51
+shanghai,Asia,1710,19194.64
+kaiachi,Asia,1711,21511.87
+cairo,Middle East,1711,19986.98
+beijing,Asia,1711,17838.9
+New York,North America,1711,16453.07
+osaka,Asia,1711,22860.1
+shanghai,Asia,1711,19152.93
+kaiachi,Asia,1712,21539.18
+cairo,Middle East,1712,19999.78
+beijing,Asia,1712,17871.6
+New York,North America,1712,16429.52
+osaka,Asia,1712,22844.29
+shanghai,Asia,1712,19165.77
+kaiachi,Asia,1713,21618.77
+cairo,Middle East,1713,20067.57
+beijing,Asia,1713,17854.4
+New York,North America,1713,16465.44
+osaka,Asia,1713,22836.12
+shanghai,Asia,1713,19150.97
+kaiachi,Asia,1714,21583.68
+cairo,Middle East,1714,20127.89
+beijing,Asia,1714,17923.02
+New York,North America,1714,16428.34
+osaka,Asia,1714,22895.5
+shanghai,Asia,1714,19196.08
+kaiachi,Asia,1715,21651.81
+cairo,Middle East,1715,20085.46
+beijing,Asia,1715,17950.62
+New York,North America,1715,16380.33
+osaka,Asia,1715,22855.5
+shanghai,Asia,1715,19250.19
+kaiachi,Asia,1716,21644.63
+cairo,Middle East,1716,20069.68
+beijing,Asia,1716,18046.68
+New York,North America,1716,16447.23
+osaka,Asia,1716,22851.72
+shanghai,Asia,1716,19255.59
+kaiachi,Asia,1717,21732.13
+cairo,Middle East,1717,20163.64
+beijing,Asia,1717,18128.03
+New York,North America,1717,16546.23
+osaka,Asia,1717,22890.31
+shanghai,Asia,1717,19287.25
+kaiachi,Asia,1718,21689.35
+cairo,Middle East,1718,20192.23
+beijing,Asia,1718,18223.58
+New York,North America,1718,16580.36
+osaka,Asia,1718,22858.64
+shanghai,Asia,1718,19249.53
+kaiachi,Asia,1719,21651.6
+cairo,Middle East,1719,20261.2
+beijing,Asia,1719,18312.93
+New York,North America,1719,16565.24
+osaka,Asia,1719,22941.07
+shanghai,Asia,1719,19333.88
+kaiachi,Asia,1720,21741.74
+cairo,Middle East,1720,20220.11
+beijing,Asia,1720,18275.35
+New York,North America,1720,16609.18
+osaka,Asia,1720,22960.18
+shanghai,Asia,1720,19406.77
+kaiachi,Asia,1721,21794.29
+cairo,Middle East,1721,20270.93
+beijing,Asia,1721,18326.9
+New York,North America,1721,16580.37
+osaka,Asia,1721,23012.74
+shanghai,Asia,1721,19471.75
+kaiachi,Asia,1722,21811.74
+cairo,Middle East,1722,20328.84
+beijing,Asia,1722,18388.05
+New York,North America,1722,16550.37
+osaka,Asia,1722,23071.23
+shanghai,Asia,1722,19456.04
+kaiachi,Asia,1723,21798.24
+cairo,Middle East,1723,20301.98
+beijing,Asia,1723,18367.35
+New York,North America,1723,16505.85
+osaka,Asia,1723,23063.0
+shanghai,Asia,1723,19524.45
+kaiachi,Asia,1724,21893.71
+cairo,Middle East,1724,20299.9
+beijing,Asia,1724,18415.83
+New York,North America,1724,16464.87
+osaka,Asia,1724,23031.89
+shanghai,Asia,1724,19562.26
+kaiachi,Asia,1725,21989.44
+cairo,Middle East,1725,20340.71
+beijing,Asia,1725,18408.02
+New York,North America,1725,16538.0
+osaka,Asia,1725,23002.21
+shanghai,Asia,1725,19601.38
+kaiachi,Asia,1726,22040.64
+cairo,Middle East,1726,20365.1
+beijing,Asia,1726,18446.68
+New York,North America,1726,16604.81
+osaka,Asia,1726,22989.49
+shanghai,Asia,1726,19690.59
+kaiachi,Asia,1727,22057.19
+cairo,Middle East,1727,20445.31
+beijing,Asia,1727,18504.2
+New York,North America,1727,16581.72
+osaka,Asia,1727,23015.34
+shanghai,Asia,1727,19725.74
+kaiachi,Asia,1728,22045.47
+cairo,Middle East,1728,20515.26
+beijing,Asia,1728,18515.92
+New York,North America,1728,16610.91
+osaka,Asia,1728,23000.29
+shanghai,Asia,1728,19772.32
+kaiachi,Asia,1729,22114.23
+cairo,Middle East,1729,20472.81
+beijing,Asia,1729,18522.86
+New York,North America,1729,16581.47
+osaka,Asia,1729,22967.31
+shanghai,Asia,1729,19857.21
+kaiachi,Asia,1730,22095.96
+cairo,Middle East,1730,20542.67
+beijing,Asia,1730,18485.93
+New York,North America,1730,16590.21
+osaka,Asia,1730,22921.47
+shanghai,Asia,1730,19879.56
+kaiachi,Asia,1731,22096.17
+cairo,Middle East,1731,20593.39
+beijing,Asia,1731,18479.08
+New York,North America,1731,16561.06
+osaka,Asia,1731,22931.05
+shanghai,Asia,1731,19945.45
+kaiachi,Asia,1732,22171.79
+cairo,Middle East,1732,20678.49
+beijing,Asia,1732,18524.69
+New York,North America,1732,16583.55
+osaka,Asia,1732,22884.8
+shanghai,Asia,1732,19898.08
+kaiachi,Asia,1733,22204.8
+cairo,Middle East,1733,20760.7
+beijing,Asia,1733,18501.94
+New York,North America,1733,16542.76
+osaka,Asia,1733,22902.72
+shanghai,Asia,1733,19902.7
+kaiachi,Asia,1734,22256.29
+cairo,Middle East,1734,20810.06
+beijing,Asia,1734,18515.26
+New York,North America,1734,16504.39
+osaka,Asia,1734,22978.75
+shanghai,Asia,1734,19983.09
+kaiachi,Asia,1735,22323.52
+cairo,Middle East,1735,20769.52
+beijing,Asia,1735,18466.72
+New York,North America,1735,16555.69
+osaka,Asia,1735,23034.08
+shanghai,Asia,1735,19997.99
+kaiachi,Asia,1736,22273.67
+cairo,Middle East,1736,20775.08
+beijing,Asia,1736,18451.53
+New York,North America,1736,16612.59
+osaka,Asia,1736,23046.83
+shanghai,Asia,1736,20066.21
+kaiachi,Asia,1737,22311.77
+cairo,Middle East,1737,20803.44
+beijing,Asia,1737,18493.54
+New York,North America,1737,16617.04
+osaka,Asia,1737,23092.31
+shanghai,Asia,1737,20054.31
+kaiachi,Asia,1738,22306.62
+cairo,Middle East,1738,20845.85
+beijing,Asia,1738,18555.91
+New York,North America,1738,16640.5
+osaka,Asia,1738,23058.57
+shanghai,Asia,1738,20044.17
+kaiachi,Asia,1739,22288.26
+cairo,Middle East,1739,20861.12
+beijing,Asia,1739,18614.9
+New York,North America,1739,16602.66
+osaka,Asia,1739,23121.29
+shanghai,Asia,1739,19997.92
+kaiachi,Asia,1740,22359.0
+cairo,Middle East,1740,20893.22
+beijing,Asia,1740,18599.78
+New York,North America,1740,16565.37
+osaka,Asia,1740,23116.49
+shanghai,Asia,1740,20093.83
+kaiachi,Asia,1741,22437.74
+cairo,Middle East,1741,20901.31
+beijing,Asia,1741,18558.89
+New York,North America,1741,16570.75
+osaka,Asia,1741,23138.36
+shanghai,Asia,1741,20186.99
+kaiachi,Asia,1742,22470.51
+cairo,Middle East,1742,20993.49
+beijing,Asia,1742,18654.42
+New York,North America,1742,16596.19
+osaka,Asia,1742,23144.92
+shanghai,Asia,1742,20228.27
+kaiachi,Asia,1743,22449.42
+cairo,Middle East,1743,20963.89
+beijing,Asia,1743,18667.66
+New York,North America,1743,16602.59
+osaka,Asia,1743,23191.54
+shanghai,Asia,1743,20317.45
+kaiachi,Asia,1744,22483.38
+cairo,Middle East,1744,21013.42
+beijing,Asia,1744,18666.39
+New York,North America,1744,16609.13
+osaka,Asia,1744,23208.4
+shanghai,Asia,1744,20284.04
+kaiachi,Asia,1745,22528.62
+cairo,Middle East,1745,21097.86
+beijing,Asia,1745,18640.21
+New York,North America,1745,16621.31
+osaka,Asia,1745,23228.7
+shanghai,Asia,1745,20246.22
+kaiachi,Asia,1746,22596.65
+cairo,Middle East,1746,21177.02
+beijing,Asia,1746,18613.61
+New York,North America,1746,16573.43
+osaka,Asia,1746,23194.82
+shanghai,Asia,1746,20309.98
+kaiachi,Asia,1747,22635.73
+cairo,Middle East,1747,21262.03
+beijing,Asia,1747,18691.63
+New York,North America,1747,16606.63
+osaka,Asia,1747,23214.09
+shanghai,Asia,1747,20331.29
+kaiachi,Asia,1748,22683.43
+cairo,Middle East,1748,21339.31
+beijing,Asia,1748,18778.46
+New York,North America,1748,16592.14
+osaka,Asia,1748,23210.57
+shanghai,Asia,1748,20287.26
+kaiachi,Asia,1749,22735.53
+cairo,Middle East,1749,21344.67
+beijing,Asia,1749,18829.4
+New York,North America,1749,16585.48
+osaka,Asia,1749,23220.11
+shanghai,Asia,1749,20386.94
+kaiachi,Asia,1750,22779.66
+cairo,Middle East,1750,21323.35
+beijing,Asia,1750,18877.34
+New York,North America,1750,16601.82
+osaka,Asia,1750,23262.81
+shanghai,Asia,1750,20425.27
+kaiachi,Asia,1751,22867.71
+cairo,Middle East,1751,21299.85
+beijing,Asia,1751,18843.92
+New York,North America,1751,16589.63
+osaka,Asia,1751,23250.97
+shanghai,Asia,1751,20502.68
+kaiachi,Asia,1752,22824.78
+cairo,Middle East,1752,21344.22
+beijing,Asia,1752,18824.18
+New York,North America,1752,16612.37
+osaka,Asia,1752,23349.35
+shanghai,Asia,1752,20561.9
+kaiachi,Asia,1753,22775.51
+cairo,Middle East,1753,21296.29
+beijing,Asia,1753,18913.26
+New York,North America,1753,16707.59
+osaka,Asia,1753,23310.94
+shanghai,Asia,1753,20653.4
+kaiachi,Asia,1754,22832.06
+cairo,Middle East,1754,21382.36
+beijing,Asia,1754,18888.64
+New York,North America,1754,16750.0
+osaka,Asia,1754,23265.89
+shanghai,Asia,1754,20678.56
+kaiachi,Asia,1755,22930.79
+cairo,Middle East,1755,21426.84
+beijing,Asia,1755,18888.1
+New York,North America,1755,16765.8
+osaka,Asia,1755,23268.42
+shanghai,Asia,1755,20760.26
+kaiachi,Asia,1756,22958.01
+cairo,Middle East,1756,21489.75
+beijing,Asia,1756,18944.44
+New York,North America,1756,16849.26
+osaka,Asia,1756,23236.72
+shanghai,Asia,1756,20767.31
+kaiachi,Asia,1757,22953.98
+cairo,Middle East,1757,21493.2
+beijing,Asia,1757,18984.48
+New York,North America,1757,16942.0
+osaka,Asia,1757,23190.86
+shanghai,Asia,1757,20858.85
+kaiachi,Asia,1758,22989.41
+cairo,Middle East,1758,21513.26
+beijing,Asia,1758,18982.07
+New York,North America,1758,17029.32
+osaka,Asia,1758,23268.58
+shanghai,Asia,1758,20850.58
+kaiachi,Asia,1759,22984.28
+cairo,Middle East,1759,21479.58
+beijing,Asia,1759,19010.34
+New York,North America,1759,17013.37
+osaka,Asia,1759,23236.73
+shanghai,Asia,1759,20912.64
+kaiachi,Asia,1760,23078.7
+cairo,Middle East,1760,21556.75
+beijing,Asia,1760,19105.06
+New York,North America,1760,17108.23
+osaka,Asia,1760,23206.66
+shanghai,Asia,1760,20876.48
+kaiachi,Asia,1761,23126.83
+cairo,Middle East,1761,21638.17
+beijing,Asia,1761,19190.0
+New York,North America,1761,17115.81
+osaka,Asia,1761,23212.8
+shanghai,Asia,1761,20896.31
+kaiachi,Asia,1762,23152.17
+cairo,Middle East,1762,21684.5
+beijing,Asia,1762,19221.8
+New York,North America,1762,17092.18
+osaka,Asia,1762,23212.19
+shanghai,Asia,1762,20981.06
+kaiachi,Asia,1763,23192.05
+cairo,Middle East,1763,21678.64
+beijing,Asia,1763,19306.47
+New York,North America,1763,17190.4
+osaka,Asia,1763,23301.47
+shanghai,Asia,1763,20991.41
+kaiachi,Asia,1764,23267.32
+cairo,Middle East,1764,21744.66
+beijing,Asia,1764,19257.7
+New York,North America,1764,17276.39
+osaka,Asia,1764,23341.36
+shanghai,Asia,1764,21043.39
+kaiachi,Asia,1765,23334.21
+cairo,Middle East,1765,21819.05
+beijing,Asia,1765,19250.04
+New York,North America,1765,17374.61
+osaka,Asia,1765,23318.45
+shanghai,Asia,1765,21055.48
+kaiachi,Asia,1766,23290.37
+cairo,Middle East,1766,21783.13
+beijing,Asia,1766,19219.35
+New York,North America,1766,17334.48
+osaka,Asia,1766,23309.49
+shanghai,Asia,1766,21082.66
+kaiachi,Asia,1767,23378.56
+cairo,Middle East,1767,21799.02
+beijing,Asia,1767,19311.82
+New York,North America,1767,17307.86
+osaka,Asia,1767,23394.26
+shanghai,Asia,1767,21114.43
+kaiachi,Asia,1768,23357.69
+cairo,Middle East,1768,21830.67
+beijing,Asia,1768,19264.5
+New York,North America,1768,17268.87
+osaka,Asia,1768,23458.19
+shanghai,Asia,1768,21156.81
+kaiachi,Asia,1769,23451.95
+cairo,Middle East,1769,21923.76
+beijing,Asia,1769,19271.72
+New York,North America,1769,17340.67
+osaka,Asia,1769,23458.84
+shanghai,Asia,1769,21158.83
+kaiachi,Asia,1770,23477.15
+cairo,Middle East,1770,21973.22
+beijing,Asia,1770,19292.12
+New York,North America,1770,17418.32
+osaka,Asia,1770,23506.38
+shanghai,Asia,1770,21254.7
+kaiachi,Asia,1771,23482.11
+cairo,Middle East,1771,21981.92
+beijing,Asia,1771,19353.97
+New York,North America,1771,17494.29
+osaka,Asia,1771,23511.71
+shanghai,Asia,1771,21314.77
+kaiachi,Asia,1772,23436.95
+cairo,Middle East,1772,22045.64
+beijing,Asia,1772,19379.14
+New York,North America,1772,17578.55
+osaka,Asia,1772,23580.18
+shanghai,Asia,1772,21335.35
+kaiachi,Asia,1773,23476.09
+cairo,Middle East,1773,22038.61
+beijing,Asia,1773,19354.01
+New York,North America,1773,17660.84
+osaka,Asia,1773,23570.05
+shanghai,Asia,1773,21325.08
+kaiachi,Asia,1774,23503.39
+cairo,Middle East,1774,22057.96
+beijing,Asia,1774,19376.55
+New York,North America,1774,17692.38
+osaka,Asia,1774,23574.91
+shanghai,Asia,1774,21328.53
+kaiachi,Asia,1775,23462.82
+cairo,Middle East,1775,22149.5
+beijing,Asia,1775,19443.72
+New York,North America,1775,17723.03
+osaka,Asia,1775,23571.81
+shanghai,Asia,1775,21363.76
+kaiachi,Asia,1776,23536.37
+cairo,Middle East,1776,22173.44
+beijing,Asia,1776,19537.49
+New York,North America,1776,17686.48
+osaka,Asia,1776,23578.39
+shanghai,Asia,1776,21316.18
+kaiachi,Asia,1777,23497.94
+cairo,Middle East,1777,22163.71
+beijing,Asia,1777,19613.45
+New York,North America,1777,17728.3
+osaka,Asia,1777,23659.69
+shanghai,Asia,1777,21367.04
+kaiachi,Asia,1778,23474.62
+cairo,Middle East,1778,22249.81
+beijing,Asia,1778,19635.97
+New York,North America,1778,17776.33
+osaka,Asia,1778,23655.1
+shanghai,Asia,1778,21410.88
+kaiachi,Asia,1779,23484.79
+cairo,Middle East,1779,22336.03
+beijing,Asia,1779,19628.61
+New York,North America,1779,17790.8
+osaka,Asia,1779,23728.02
+shanghai,Asia,1779,21447.31
+kaiachi,Asia,1780,23469.88
+cairo,Middle East,1780,22415.45
+beijing,Asia,1780,19642.16
+New York,North America,1780,17825.7
+osaka,Asia,1780,23805.16
+shanghai,Asia,1780,21536.43
+kaiachi,Asia,1781,23427.84
+cairo,Middle East,1781,22376.32
+beijing,Asia,1781,19597.74
+New York,North America,1781,17792.31
+osaka,Asia,1781,23838.55
+shanghai,Asia,1781,21545.66
+kaiachi,Asia,1782,23452.47
+cairo,Middle East,1782,22384.39
+beijing,Asia,1782,19553.01
+New York,North America,1782,17816.09
+osaka,Asia,1782,23837.26
+shanghai,Asia,1782,21541.62
+kaiachi,Asia,1783,23441.61
+cairo,Middle East,1783,22354.91
+beijing,Asia,1783,19587.7
+New York,North America,1783,17793.85
+osaka,Asia,1783,23824.16
+shanghai,Asia,1783,21572.45
+kaiachi,Asia,1784,23440.92
+cairo,Middle East,1784,22429.98
+beijing,Asia,1784,19583.5
+New York,North America,1784,17779.56
+osaka,Asia,1784,23774.98
+shanghai,Asia,1784,21637.78
+kaiachi,Asia,1785,23399.04
+cairo,Middle East,1785,22386.12
+beijing,Asia,1785,19620.71
+New York,North America,1785,17793.15
+osaka,Asia,1785,23778.06
+shanghai,Asia,1785,21653.11
+kaiachi,Asia,1786,23415.38
+cairo,Middle East,1786,22428.9
+beijing,Asia,1786,19665.14
+New York,North America,1786,17802.03
+osaka,Asia,1786,23859.01
+shanghai,Asia,1786,21609.8
+kaiachi,Asia,1787,23454.27
+cairo,Middle East,1787,22520.48
+beijing,Asia,1787,19676.65
+New York,North America,1787,17809.96
+osaka,Asia,1787,23933.46
+shanghai,Asia,1787,21570.29
+kaiachi,Asia,1788,23533.65
+cairo,Middle East,1788,22594.43
+beijing,Asia,1788,19674.09
+New York,North America,1788,17874.63
+osaka,Asia,1788,23932.52
+shanghai,Asia,1788,21611.22
+kaiachi,Asia,1789,23560.52
+cairo,Middle East,1789,22682.77
+beijing,Asia,1789,19747.84
+New York,North America,1789,17923.53
+osaka,Asia,1789,24025.81
+shanghai,Asia,1789,21563.97
+kaiachi,Asia,1790,23569.16
+cairo,Middle East,1790,22664.08
+beijing,Asia,1790,19799.81
+New York,North America,1790,17884.4
+osaka,Asia,1790,23985.18
+shanghai,Asia,1790,21600.37
+kaiachi,Asia,1791,23653.03
+cairo,Middle East,1791,22698.99
+beijing,Asia,1791,19791.86
+New York,North America,1791,17966.93
+osaka,Asia,1791,24012.67
+shanghai,Asia,1791,21587.16
+kaiachi,Asia,1792,23649.2
+cairo,Middle East,1792,22662.98
+beijing,Asia,1792,19883.39
+New York,North America,1792,17966.96
+osaka,Asia,1792,24002.08
+shanghai,Asia,1792,21543.18
+kaiachi,Asia,1793,23678.79
+cairo,Middle East,1793,22677.91
+beijing,Asia,1793,19921.83
+New York,North America,1793,17942.73
+osaka,Asia,1793,24099.46
+shanghai,Asia,1793,21572.45
+kaiachi,Asia,1794,23673.28
+cairo,Middle East,1794,22693.05
+beijing,Asia,1794,19997.01
+New York,North America,1794,17918.31
+osaka,Asia,1794,24091.36
+shanghai,Asia,1794,21543.38
+kaiachi,Asia,1795,23683.6
+cairo,Middle East,1795,22788.57
+beijing,Asia,1795,20046.26
+New York,North America,1795,18005.55
+osaka,Asia,1795,24185.65
+shanghai,Asia,1795,21563.42
+kaiachi,Asia,1796,23644.06
+cairo,Middle East,1796,22767.65
+beijing,Asia,1796,20000.15
+New York,North America,1796,18012.82
+osaka,Asia,1796,24157.91
+shanghai,Asia,1796,21566.66
+kaiachi,Asia,1797,23647.2
+cairo,Middle East,1797,22856.42
+beijing,Asia,1797,20012.12
+New York,North America,1797,18054.36
+osaka,Asia,1797,24176.12
+shanghai,Asia,1797,21561.17
+kaiachi,Asia,1798,23598.47
+cairo,Middle East,1798,22940.25
+beijing,Asia,1798,20055.14
+New York,North America,1798,18102.54
+osaka,Asia,1798,24257.76
+shanghai,Asia,1798,21614.6
+kaiachi,Asia,1799,23617.02
+cairo,Middle East,1799,23029.15
+beijing,Asia,1799,20089.75
+New York,North America,1799,18152.83
+osaka,Asia,1799,24240.99
+shanghai,Asia,1799,21702.67
+kaiachi,Asia,1800,23676.68
+cairo,Middle East,1800,23014.26
+beijing,Asia,1800,20073.36
+New York,North America,1800,18104.56
+osaka,Asia,1800,24204.11
+shanghai,Asia,1800,21766.31
+kaiachi,Asia,1801,23697.04
+cairo,Middle East,1801,22997.76
+beijing,Asia,1801,20048.36
+New York,North America,1801,18056.68
+osaka,Asia,1801,24175.47
+shanghai,Asia,1801,21832.4
+kaiachi,Asia,1802,23686.99
+cairo,Middle East,1802,23077.06
+beijing,Asia,1802,20041.27
+New York,North America,1802,18068.72
+osaka,Asia,1802,24150.94
+shanghai,Asia,1802,21853.65
+kaiachi,Asia,1803,23652.71
+cairo,Middle East,1803,23150.99
+beijing,Asia,1803,20057.03
+New York,North America,1803,18029.21
+osaka,Asia,1803,24224.5
+shanghai,Asia,1803,21842.04
+kaiachi,Asia,1804,23652.8
+cairo,Middle East,1804,23117.81
+beijing,Asia,1804,20131.22
+New York,North America,1804,18065.08
+osaka,Asia,1804,24295.82
+shanghai,Asia,1804,21840.04
+kaiachi,Asia,1805,23624.32
+cairo,Middle East,1805,23150.81
+beijing,Asia,1805,20081.92
+New York,North America,1805,18067.5
+osaka,Asia,1805,24374.82
+shanghai,Asia,1805,21847.18
+kaiachi,Asia,1806,23661.63
+cairo,Middle East,1806,23210.11
+beijing,Asia,1806,20077.21
+New York,North America,1806,18119.64
+osaka,Asia,1806,24418.66
+shanghai,Asia,1806,21909.17
+kaiachi,Asia,1807,23695.71
+cairo,Middle East,1807,23170.09
+beijing,Asia,1807,20131.99
+New York,North America,1807,18171.23
+osaka,Asia,1807,24507.39
+shanghai,Asia,1807,21864.79
+kaiachi,Asia,1808,23667.58
+cairo,Middle East,1808,23224.27
+beijing,Asia,1808,20087.28
+New York,North America,1808,18244.64
+osaka,Asia,1808,24586.44
+shanghai,Asia,1808,21872.52
+kaiachi,Asia,1809,23701.77
+cairo,Middle East,1809,23319.33
+beijing,Asia,1809,20131.06
+New York,North America,1809,18306.59
+osaka,Asia,1809,24638.81
+shanghai,Asia,1809,21889.37
+kaiachi,Asia,1810,23772.48
+cairo,Middle East,1810,23366.44
+beijing,Asia,1810,20226.5
+New York,North America,1810,18276.56
+osaka,Asia,1810,24712.82
+shanghai,Asia,1810,21898.62
+kaiachi,Asia,1811,23844.95
+cairo,Middle East,1811,23432.64
+beijing,Asia,1811,20214.57
+New York,North America,1811,18319.32
+osaka,Asia,1811,24800.2
+shanghai,Asia,1811,21989.45
+kaiachi,Asia,1812,23796.62
+cairo,Middle East,1812,23500.1
+beijing,Asia,1812,20289.54
+New York,North America,1812,18382.74
+osaka,Asia,1812,24774.91
+shanghai,Asia,1812,22057.79
+kaiachi,Asia,1813,23840.29
+cairo,Middle East,1813,23525.62
+beijing,Asia,1813,20313.8
+New York,North America,1813,18478.92
+osaka,Asia,1813,24828.61
+shanghai,Asia,1813,22019.12
+kaiachi,Asia,1814,23800.92
+cairo,Middle East,1814,23511.39
+beijing,Asia,1814,20405.48
+New York,North America,1814,18540.24
+osaka,Asia,1814,24860.17
+shanghai,Asia,1814,22095.44
+kaiachi,Asia,1815,23820.94
+cairo,Middle East,1815,23608.64
+beijing,Asia,1815,20380.52
+New York,North America,1815,18601.86
+osaka,Asia,1815,24842.24
+shanghai,Asia,1815,22059.88
+kaiachi,Asia,1816,23841.37
+cairo,Middle East,1816,23560.95
+beijing,Asia,1816,20438.79
+New York,North America,1816,18593.28
+osaka,Asia,1816,24838.09
+shanghai,Asia,1816,22153.36
+kaiachi,Asia,1817,23903.49
+cairo,Middle East,1817,23627.66
+beijing,Asia,1817,20420.27
+New York,North America,1817,18637.5
+osaka,Asia,1817,24925.53
+shanghai,Asia,1817,22242.54
+kaiachi,Asia,1818,23961.49
+cairo,Middle East,1818,23592.37
+beijing,Asia,1818,20378.08
+New York,North America,1818,18661.77
+osaka,Asia,1818,24890.09
+shanghai,Asia,1818,22331.69
+kaiachi,Asia,1819,23961.15
+cairo,Middle East,1819,23604.27
+beijing,Asia,1819,20353.84
+New York,North America,1819,18740.0
+osaka,Asia,1819,24918.62
+shanghai,Asia,1819,22404.1
+kaiachi,Asia,1820,24049.41
+cairo,Middle East,1820,23633.05
+beijing,Asia,1820,20320.34
+New York,North America,1820,18696.63
+osaka,Asia,1820,24920.07
+shanghai,Asia,1820,22465.65
+kaiachi,Asia,1821,24041.49
+cairo,Middle East,1821,23600.0
+beijing,Asia,1821,20317.09
+New York,North America,1821,18756.17
+osaka,Asia,1821,24964.88
+shanghai,Asia,1821,22426.96
+kaiachi,Asia,1822,24048.44
+cairo,Middle East,1822,23679.91
+beijing,Asia,1822,20357.27
+New York,North America,1822,18776.12
+osaka,Asia,1822,25052.83
+shanghai,Asia,1822,22393.85
+kaiachi,Asia,1823,24029.6
+cairo,Middle East,1823,23675.3
+beijing,Asia,1823,20325.26
+New York,North America,1823,18860.27
+osaka,Asia,1823,25010.97
+shanghai,Asia,1823,22448.01
+kaiachi,Asia,1824,24089.29
+cairo,Middle East,1824,23733.24
+beijing,Asia,1824,20413.67
+New York,North America,1824,18851.78
+osaka,Asia,1824,25092.17
+shanghai,Asia,1824,22483.93
+kaiachi,Asia,1825,24097.93
+cairo,Middle East,1825,23809.26
+beijing,Asia,1825,20406.66
+New York,North America,1825,18872.61
+osaka,Asia,1825,25053.85
+shanghai,Asia,1825,22554.08
+kaiachi,Asia,1826,24159.79
+cairo,Middle East,1826,23800.57
+beijing,Asia,1826,20485.41
+New York,North America,1826,18873.17
+osaka,Asia,1826,25127.4
+shanghai,Asia,1826,22542.26
+kaiachi,Asia,1827,24154.86
+cairo,Middle East,1827,23852.3
+beijing,Asia,1827,20444.74
+New York,North America,1827,18942.31
+osaka,Asia,1827,25120.57
+shanghai,Asia,1827,22543.11
+kaiachi,Asia,1828,24164.12
+cairo,Middle East,1828,23809.69
+beijing,Asia,1828,20452.32
+New York,North America,1828,18974.06
+osaka,Asia,1828,25104.66
+shanghai,Asia,1828,22548.31
+kaiachi,Asia,1829,24212.62
+cairo,Middle East,1829,23883.86
+beijing,Asia,1829,20407.94
+New York,North America,1829,19008.34
+osaka,Asia,1829,25096.47
+shanghai,Asia,1829,22504.01
+kaiachi,Asia,1830,24178.81
+cairo,Middle East,1830,23921.41
+beijing,Asia,1830,20416.63
+New York,North America,1830,18962.87
+osaka,Asia,1830,25159.22
+shanghai,Asia,1830,22495.79
+kaiachi,Asia,1831,24238.27
+cairo,Middle East,1831,23932.09
+beijing,Asia,1831,20429.93
+New York,North America,1831,18942.21
+osaka,Asia,1831,25217.69
+shanghai,Asia,1831,22515.86
+kaiachi,Asia,1832,24221.05
+cairo,Middle East,1832,24002.3
+beijing,Asia,1832,20412.84
+New York,North America,1832,18973.15
+osaka,Asia,1832,25244.97
+shanghai,Asia,1832,22496.03
+kaiachi,Asia,1833,24283.31
+cairo,Middle East,1833,24012.29
+beijing,Asia,1833,20509.71
+New York,North America,1833,19066.37
+osaka,Asia,1833,25295.11
+shanghai,Asia,1833,22449.93
+kaiachi,Asia,1834,24339.69
+cairo,Middle East,1834,23970.54
+beijing,Asia,1834,20526.02
+New York,North America,1834,19103.66
+osaka,Asia,1834,25326.58
+shanghai,Asia,1834,22462.68
+kaiachi,Asia,1835,24352.83
+cairo,Middle East,1835,24014.08
+beijing,Asia,1835,20499.77
+New York,North America,1835,19091.44
+osaka,Asia,1835,25426.2
+shanghai,Asia,1835,22456.18
+kaiachi,Asia,1836,24378.4
+cairo,Middle East,1836,24031.41
+beijing,Asia,1836,20485.29
+New York,North America,1836,19152.38
+osaka,Asia,1836,25479.1
+shanghai,Asia,1836,22471.76
+kaiachi,Asia,1837,24365.09
+cairo,Middle East,1837,24110.93
+beijing,Asia,1837,20471.64
+New York,North America,1837,19172.91
+osaka,Asia,1837,25518.7
+shanghai,Asia,1837,22437.84
+kaiachi,Asia,1838,24358.78
+cairo,Middle East,1838,24169.48
+beijing,Asia,1838,20516.39
+New York,North America,1838,19217.71
+osaka,Asia,1838,25470.74
+shanghai,Asia,1838,22458.49
+kaiachi,Asia,1839,24439.16
+cairo,Middle East,1839,24248.17
+beijing,Asia,1839,20533.01
+New York,North America,1839,19193.61
+osaka,Asia,1839,25514.34
+shanghai,Asia,1839,22541.27
+kaiachi,Asia,1840,24431.26
+cairo,Middle East,1840,24198.89
+beijing,Asia,1840,20498.8
+New York,North America,1840,19166.66
+osaka,Asia,1840,25579.42
+shanghai,Asia,1840,22524.36
+kaiachi,Asia,1841,24527.08
+cairo,Middle East,1841,24249.52
+beijing,Asia,1841,20523.9
+New York,North America,1841,19251.69
+osaka,Asia,1841,25547.42
+shanghai,Asia,1841,22561.88
+kaiachi,Asia,1842,24557.27
+cairo,Middle East,1842,24203.99
+beijing,Asia,1842,20545.79
+New York,North America,1842,19306.03
+osaka,Asia,1842,25560.98
+shanghai,Asia,1842,22526.52
+kaiachi,Asia,1843,24616.23
+cairo,Middle East,1843,24193.36
+beijing,Asia,1843,20587.1
+New York,North America,1843,19304.49
+osaka,Asia,1843,25562.21
+shanghai,Asia,1843,22525.75
+kaiachi,Asia,1844,24673.36
+cairo,Middle East,1844,24256.1
+beijing,Asia,1844,20585.1
+New York,North America,1844,19332.15
+osaka,Asia,1844,25591.48
+shanghai,Asia,1844,22538.13
+kaiachi,Asia,1845,24660.73
+cairo,Middle East,1845,24311.9
+beijing,Asia,1845,20581.86
+New York,North America,1845,19368.14
+osaka,Asia,1845,25601.51
+shanghai,Asia,1845,22591.82
+kaiachi,Asia,1846,24614.15
+cairo,Middle East,1846,24408.94
+beijing,Asia,1846,20664.76
+New York,North America,1846,19447.69
+osaka,Asia,1846,25603.73
+shanghai,Asia,1846,22671.68
+kaiachi,Asia,1847,24647.39
+cairo,Middle East,1847,24431.48
+beijing,Asia,1847,20665.32
+New York,North America,1847,19515.1
+osaka,Asia,1847,25674.84
+shanghai,Asia,1847,22646.24
+kaiachi,Asia,1848,24705.62
+cairo,Middle East,1848,24521.28
+beijing,Asia,1848,20616.43
+New York,North America,1848,19542.14
+osaka,Asia,1848,25639.27
+shanghai,Asia,1848,22625.22
+kaiachi,Asia,1849,24795.98
+cairo,Middle East,1849,24496.38
+beijing,Asia,1849,20609.48
+New York,North America,1849,19534.31
+osaka,Asia,1849,25687.16
+shanghai,Asia,1849,22634.29
+kaiachi,Asia,1850,24792.69
+cairo,Middle East,1850,24499.71
+beijing,Asia,1850,20577.44
+New York,North America,1850,19553.74
+osaka,Asia,1850,25745.33
+shanghai,Asia,1850,22675.59
+kaiachi,Asia,1851,24761.38
+cairo,Middle East,1851,24468.02
+beijing,Asia,1851,20628.58
+New York,North America,1851,19556.75
+osaka,Asia,1851,25735.41
+shanghai,Asia,1851,22734.09
+kaiachi,Asia,1852,24810.56
+cairo,Middle East,1852,24456.23
+beijing,Asia,1852,20722.4
+New York,North America,1852,19635.93
+osaka,Asia,1852,25827.04
+shanghai,Asia,1852,22724.81
+kaiachi,Asia,1853,24903.18
+cairo,Middle East,1853,24485.62
+beijing,Asia,1853,20790.59
+New York,North America,1853,19684.3
+osaka,Asia,1853,25831.21
+shanghai,Asia,1853,22695.5
+kaiachi,Asia,1854,24985.34
+cairo,Middle East,1854,24568.28
+beijing,Asia,1854,20879.98
+New York,North America,1854,19683.44
+osaka,Asia,1854,25828.29
+shanghai,Asia,1854,22668.03
+kaiachi,Asia,1855,25057.92
+cairo,Middle East,1855,24658.06
+beijing,Asia,1855,20904.97
+New York,North America,1855,19724.72
+osaka,Asia,1855,25798.77
+shanghai,Asia,1855,22723.75
+kaiachi,Asia,1856,25009.65
+cairo,Middle East,1856,24701.1
+beijing,Asia,1856,20857.46
+New York,North America,1856,19708.74
+osaka,Asia,1856,25813.68
+shanghai,Asia,1856,22745.5
+kaiachi,Asia,1857,25025.54
+cairo,Middle East,1857,24790.33
+beijing,Asia,1857,20829.54
+New York,North America,1857,19685.82
+osaka,Asia,1857,25859.33
+shanghai,Asia,1857,22722.93
+kaiachi,Asia,1858,25082.56
+cairo,Middle East,1858,24880.27
+beijing,Asia,1858,20868.12
+New York,North America,1858,19734.4
+osaka,Asia,1858,25877.36
+shanghai,Asia,1858,22729.99
+kaiachi,Asia,1859,25040.87
+cairo,Middle East,1859,24845.89
+beijing,Asia,1859,20938.18
+New York,North America,1859,19818.75
+osaka,Asia,1859,25843.27
+shanghai,Asia,1859,22822.08
+kaiachi,Asia,1860,25107.86
+cairo,Middle East,1860,24807.13
+beijing,Asia,1860,20952.81
+New York,North America,1860,19869.1
+osaka,Asia,1860,25912.97
+shanghai,Asia,1860,22855.55
+kaiachi,Asia,1861,25105.94
+cairo,Middle East,1861,24800.78
+beijing,Asia,1861,20922.24
+New York,North America,1861,19873.47
+osaka,Asia,1861,25912.99
+shanghai,Asia,1861,22929.92
+kaiachi,Asia,1862,25093.79
+cairo,Middle East,1862,24874.86
+beijing,Asia,1862,21003.95
+New York,North America,1862,19866.84
+osaka,Asia,1862,25985.02
+shanghai,Asia,1862,22954.72
+kaiachi,Asia,1863,25117.34
+cairo,Middle East,1863,24921.18
+beijing,Asia,1863,20957.63
+New York,North America,1863,19934.67
+osaka,Asia,1863,26059.56
+shanghai,Asia,1863,23031.14
+kaiachi,Asia,1864,25087.49
+cairo,Middle East,1864,24887.09
+beijing,Asia,1864,20962.0
+New York,North America,1864,20014.3
+osaka,Asia,1864,26135.78
+shanghai,Asia,1864,22999.78
+kaiachi,Asia,1865,25038.27
+cairo,Middle East,1865,24983.64
+beijing,Asia,1865,21050.01
+New York,North America,1865,19979.1
+osaka,Asia,1865,26192.91
+shanghai,Asia,1865,23086.86
+kaiachi,Asia,1866,25115.28
+cairo,Middle East,1866,25056.2
+beijing,Asia,1866,21006.05
+New York,North America,1866,20056.47
+osaka,Asia,1866,26204.39
+shanghai,Asia,1866,23152.69
+kaiachi,Asia,1867,25112.98
+cairo,Middle East,1867,25030.18
+beijing,Asia,1867,20994.18
+New York,North America,1867,20057.39
+osaka,Asia,1867,26194.27
+shanghai,Asia,1867,23239.15
+kaiachi,Asia,1868,25117.45
+cairo,Middle East,1868,25122.95
+beijing,Asia,1868,21035.71
+New York,North America,1868,20041.8
+osaka,Asia,1868,26171.4
+shanghai,Asia,1868,23319.79
+kaiachi,Asia,1869,25206.54
+cairo,Middle East,1869,25095.34
+beijing,Asia,1869,21132.54
+New York,North America,1869,20131.56
+osaka,Asia,1869,26197.89
+shanghai,Asia,1869,23358.39
+kaiachi,Asia,1870,25264.18
+cairo,Middle East,1870,25048.43
+beijing,Asia,1870,21176.1
+New York,North America,1870,20082.32
+osaka,Asia,1870,26186.41
+shanghai,Asia,1870,23311.61
+kaiachi,Asia,1871,25298.52
+cairo,Middle East,1871,25101.65
+beijing,Asia,1871,21152.2
+New York,North America,1871,20121.73
+osaka,Asia,1871,26203.08
+shanghai,Asia,1871,23319.32
+kaiachi,Asia,1872,25369.93
+cairo,Middle East,1872,25189.12
+beijing,Asia,1872,21194.56
+New York,North America,1872,20150.23
+osaka,Asia,1872,26165.32
+shanghai,Asia,1872,23354.14
+kaiachi,Asia,1873,25420.42
+cairo,Middle East,1873,25140.53
+beijing,Asia,1873,21287.35
+New York,North America,1873,20220.71
+osaka,Asia,1873,26196.01
+shanghai,Asia,1873,23417.35
+kaiachi,Asia,1874,25472.17
+cairo,Middle East,1874,25123.15
+beijing,Asia,1874,21317.9
+New York,North America,1874,20184.09
+osaka,Asia,1874,26272.15
+shanghai,Asia,1874,23400.02
+kaiachi,Asia,1875,25560.43
+cairo,Middle East,1875,25111.27
+beijing,Asia,1875,21291.72
+New York,North America,1875,20270.02
+osaka,Asia,1875,26366.49
+shanghai,Asia,1875,23355.65
+kaiachi,Asia,1876,25571.19
+cairo,Middle East,1876,25098.34
+beijing,Asia,1876,21321.49
+New York,North America,1876,20352.81
+osaka,Asia,1876,26425.35
+shanghai,Asia,1876,23351.0
+kaiachi,Asia,1877,25657.88
+cairo,Middle East,1877,25149.74
+beijing,Asia,1877,21418.95
+New York,North America,1877,20324.67
+osaka,Asia,1877,26432.54
+shanghai,Asia,1877,23336.23
+kaiachi,Asia,1878,25630.46
+cairo,Middle East,1878,25237.91
+beijing,Asia,1878,21471.44
+New York,North America,1878,20379.43
+osaka,Asia,1878,26401.73
+shanghai,Asia,1878,23337.85
+kaiachi,Asia,1879,25605.64
+cairo,Middle East,1879,25282.99
+beijing,Asia,1879,21544.53
+New York,North America,1879,20338.71
+osaka,Asia,1879,26425.52
+shanghai,Asia,1879,23312.96
+kaiachi,Asia,1880,25673.21
+cairo,Middle East,1880,25243.04
+beijing,Asia,1880,21500.77
+New York,North America,1880,20342.84
+osaka,Asia,1880,26479.18
+shanghai,Asia,1880,23296.4
+kaiachi,Asia,1881,25737.03
+cairo,Middle East,1881,25229.12
+beijing,Asia,1881,21552.23
+New York,North America,1881,20307.72
+osaka,Asia,1881,26476.69
+shanghai,Asia,1881,23332.62
+kaiachi,Asia,1882,25689.72
+cairo,Middle East,1882,25278.46
+beijing,Asia,1882,21618.52
+New York,North America,1882,20284.15
+osaka,Asia,1882,26448.35
+shanghai,Asia,1882,23374.75
+kaiachi,Asia,1883,25700.94
+cairo,Middle East,1883,25260.31
+beijing,Asia,1883,21589.01
+New York,North America,1883,20377.98
+osaka,Asia,1883,26495.75
+shanghai,Asia,1883,23417.59
+kaiachi,Asia,1884,25702.72
+cairo,Middle East,1884,25310.18
+beijing,Asia,1884,21660.66
+New York,North America,1884,20330.27
+osaka,Asia,1884,26511.29
+shanghai,Asia,1884,23387.74
+kaiachi,Asia,1885,25758.99
+cairo,Middle East,1885,25306.59
+beijing,Asia,1885,21612.78
+New York,North America,1885,20322.72
+osaka,Asia,1885,26574.7
+shanghai,Asia,1885,23448.71
+kaiachi,Asia,1886,25770.25
+cairo,Middle East,1886,25329.01
+beijing,Asia,1886,21645.23
+New York,North America,1886,20302.96
+osaka,Asia,1886,26577.8
+shanghai,Asia,1886,23423.25
+kaiachi,Asia,1887,25730.84
+cairo,Middle East,1887,25338.19
+beijing,Asia,1887,21686.39
+New York,North America,1887,20368.32
+osaka,Asia,1887,26533.08
+shanghai,Asia,1887,23471.64
+kaiachi,Asia,1888,25826.12
+cairo,Middle East,1888,25420.24
+beijing,Asia,1888,21658.08
+New York,North America,1888,20433.17
+osaka,Asia,1888,26491.99
+shanghai,Asia,1888,23478.23
+kaiachi,Asia,1889,25925.44
+cairo,Middle East,1889,25402.86
+beijing,Asia,1889,21630.02
+New York,North America,1889,20396.75
+osaka,Asia,1889,26580.78
+shanghai,Asia,1889,23518.73
+kaiachi,Asia,1890,25878.34
+cairo,Middle East,1890,25363.43
+beijing,Asia,1890,21724.44
+New York,North America,1890,20372.75
+osaka,Asia,1890,26663.1
+shanghai,Asia,1890,23617.25
+kaiachi,Asia,1891,25849.66
+cairo,Middle East,1891,25377.4
+beijing,Asia,1891,21685.49
+New York,North America,1891,20444.71
+osaka,Asia,1891,26674.27
+shanghai,Asia,1891,23644.53
+kaiachi,Asia,1892,25879.07
+cairo,Middle East,1892,25374.77
+beijing,Asia,1892,21689.13
+New York,North America,1892,20483.67
+osaka,Asia,1892,26727.67
+shanghai,Asia,1892,23633.62
+kaiachi,Asia,1893,25892.63
+cairo,Middle East,1893,25472.63
+beijing,Asia,1893,21709.4
+New York,North America,1893,20527.88
+osaka,Asia,1893,26787.3
+shanghai,Asia,1893,23687.42
+kaiachi,Asia,1894,25931.96
+cairo,Middle East,1894,25472.11
+beijing,Asia,1894,21675.88
+New York,North America,1894,20488.93
+osaka,Asia,1894,26755.31
+shanghai,Asia,1894,23739.36
+kaiachi,Asia,1895,25922.45
+cairo,Middle East,1895,25447.09
+beijing,Asia,1895,21719.3
+New York,North America,1895,20523.51
+osaka,Asia,1895,26727.8
+shanghai,Asia,1895,23723.41
+kaiachi,Asia,1896,25904.18
+cairo,Middle East,1896,25401.1
+beijing,Asia,1896,21723.32
+New York,North America,1896,20596.38
+osaka,Asia,1896,26808.07
+shanghai,Asia,1896,23692.26
+kaiachi,Asia,1897,25987.41
+cairo,Middle East,1897,25470.95
+beijing,Asia,1897,21696.75
+New York,North America,1897,20607.13
+osaka,Asia,1897,26843.23
+shanghai,Asia,1897,23757.5
+kaiachi,Asia,1898,26010.24
+cairo,Middle East,1898,25485.27
+beijing,Asia,1898,21653.98
+New York,North America,1898,20561.29
+osaka,Asia,1898,26820.43
+shanghai,Asia,1898,23835.03
+kaiachi,Asia,1899,26087.78
+cairo,Middle East,1899,25525.97
+beijing,Asia,1899,21751.33
+New York,North America,1899,20647.44
+osaka,Asia,1899,26899.34
+shanghai,Asia,1899,23787.71
+kaiachi,Asia,1900,26158.71
+cairo,Middle East,1900,25514.38
+beijing,Asia,1900,21790.19
+New York,North America,1900,20668.3
+osaka,Asia,1900,26893.73
+shanghai,Asia,1900,23791.77
+kaiachi,Asia,1901,26160.52
+cairo,Middle East,1901,25557.93
+beijing,Asia,1901,21754.04
+New York,North America,1901,20657.03
+osaka,Asia,1901,26939.25
+shanghai,Asia,1901,23806.36
+kaiachi,Asia,1902,26180.04
+cairo,Middle East,1902,25540.29
+beijing,Asia,1902,21795.33
+New York,North America,1902,20725.78
+osaka,Asia,1902,26891.71
+shanghai,Asia,1902,23764.03
+kaiachi,Asia,1903,26259.25
+cairo,Middle East,1903,25629.92
+beijing,Asia,1903,21885.28
+New York,North America,1903,20821.79
+osaka,Asia,1903,26947.54
+shanghai,Asia,1903,23790.67
+kaiachi,Asia,1904,26321.86
+cairo,Middle East,1904,25676.2
+beijing,Asia,1904,21869.65
+New York,North America,1904,20777.8
+osaka,Asia,1904,26994.98
+shanghai,Asia,1904,23800.91
+kaiachi,Asia,1905,26272.68
+cairo,Middle East,1905,25773.91
+beijing,Asia,1905,21842.14
+New York,North America,1905,20789.08
+osaka,Asia,1905,27000.08
+shanghai,Asia,1905,23806.1
+kaiachi,Asia,1906,26224.74
+cairo,Middle East,1906,25731.06
+beijing,Asia,1906,21825.39
+New York,North America,1906,20747.13
+osaka,Asia,1906,27037.2
+shanghai,Asia,1906,23814.94
+kaiachi,Asia,1907,26254.8
+cairo,Middle East,1907,25727.35
+beijing,Asia,1907,21786.8
+New York,North America,1907,20772.23
+osaka,Asia,1907,27067.73
+shanghai,Asia,1907,23873.34
+kaiachi,Asia,1908,26313.02
+cairo,Middle East,1908,25760.64
+beijing,Asia,1908,21783.01
+New York,North America,1908,20858.4
+osaka,Asia,1908,27028.19
+shanghai,Asia,1908,23905.29
+kaiachi,Asia,1909,26345.68
+cairo,Middle East,1909,25733.4
+beijing,Asia,1909,21768.23
+New York,North America,1909,20857.86
+osaka,Asia,1909,27078.09
+shanghai,Asia,1909,23891.83
+kaiachi,Asia,1910,26349.91
+cairo,Middle East,1910,25800.42
+beijing,Asia,1910,21725.67
+New York,North America,1910,20883.79
+osaka,Asia,1910,27114.28
+shanghai,Asia,1910,23855.25
+kaiachi,Asia,1911,26365.23
+cairo,Middle East,1911,25781.2
+beijing,Asia,1911,21707.43
+New York,North America,1911,20952.31
+osaka,Asia,1911,27203.9
+shanghai,Asia,1911,23841.11
+kaiachi,Asia,1912,26425.78
+cairo,Middle East,1912,25793.6
+beijing,Asia,1912,21666.39
+New York,North America,1912,20950.08
+osaka,Asia,1912,27293.9
+shanghai,Asia,1912,23914.26
+kaiachi,Asia,1913,26452.8
+cairo,Middle East,1913,25863.27
+beijing,Asia,1913,21702.27
+New York,North America,1913,20937.97
+osaka,Asia,1913,27374.15
+shanghai,Asia,1913,23953.31
+kaiachi,Asia,1914,26523.56
+cairo,Middle East,1914,25875.21
+beijing,Asia,1914,21794.6
+New York,North America,1914,20893.49
+osaka,Asia,1914,27331.16
+shanghai,Asia,1914,23944.84
+kaiachi,Asia,1915,26564.44
+cairo,Middle East,1915,25870.21
+beijing,Asia,1915,21837.03
+New York,North America,1915,20987.78
+osaka,Asia,1915,27283.82
+shanghai,Asia,1915,23955.05
+kaiachi,Asia,1916,26566.68
+cairo,Middle East,1916,25826.97
+beijing,Asia,1916,21797.95
+New York,North America,1916,20949.69
+osaka,Asia,1916,27327.35
+shanghai,Asia,1916,23957.83
+kaiachi,Asia,1917,26625.71
+cairo,Middle East,1917,25870.35
+beijing,Asia,1917,21862.26
+New York,North America,1917,20953.44
+osaka,Asia,1917,27395.12
+shanghai,Asia,1917,23961.38
+kaiachi,Asia,1918,26699.7
+cairo,Middle East,1918,25906.22
+beijing,Asia,1918,21868.61
+New York,North America,1918,21016.53
+osaka,Asia,1918,27398.73
+shanghai,Asia,1918,23989.24
+kaiachi,Asia,1919,26731.15
+cairo,Middle East,1919,25889.44
+beijing,Asia,1919,21919.52
+New York,North America,1919,21092.03
+osaka,Asia,1919,27406.32
+shanghai,Asia,1919,24000.59
+kaiachi,Asia,1920,26793.51
+cairo,Middle East,1920,25929.28
+beijing,Asia,1920,21976.05
+New York,North America,1920,21170.16
+osaka,Asia,1920,27424.49
+shanghai,Asia,1920,23990.36
+kaiachi,Asia,1921,26814.49
+cairo,Middle East,1921,26026.76
+beijing,Asia,1921,21982.05
+New York,North America,1921,21229.19
+osaka,Asia,1921,27415.92
+shanghai,Asia,1921,23947.55
+kaiachi,Asia,1922,26780.89
+cairo,Middle East,1922,26087.48
+beijing,Asia,1922,21984.13
+New York,North America,1922,21197.5
+osaka,Asia,1922,27462.52
+shanghai,Asia,1922,23901.49
+kaiachi,Asia,1923,26825.59
+cairo,Middle East,1923,26098.55
+beijing,Asia,1923,21971.95
+New York,North America,1923,21295.58
+osaka,Asia,1923,27424.57
+shanghai,Asia,1923,23942.22
+kaiachi,Asia,1924,26849.39
+cairo,Middle East,1924,26186.29
+beijing,Asia,1924,21985.31
+New York,North America,1924,21370.3
+osaka,Asia,1924,27459.92
+shanghai,Asia,1924,23945.64
+kaiachi,Asia,1925,26800.07
+cairo,Middle East,1925,26252.01
+beijing,Asia,1925,22003.26
+New York,North America,1925,21426.1
+osaka,Asia,1925,27503.34
+shanghai,Asia,1925,23919.77
+kaiachi,Asia,1926,26783.5
+cairo,Middle East,1926,26340.7
+beijing,Asia,1926,21970.57
+New York,North America,1926,21514.69
+osaka,Asia,1926,27529.28
+shanghai,Asia,1926,23916.09
+kaiachi,Asia,1927,26800.47
+cairo,Middle East,1927,26425.68
+beijing,Asia,1927,21923.13
+New York,North America,1927,21531.49
+osaka,Asia,1927,27527.68
+shanghai,Asia,1927,23898.5
+kaiachi,Asia,1928,26800.31
+cairo,Middle East,1928,26525.36
+beijing,Asia,1928,22013.71
+New York,North America,1928,21596.83
+osaka,Asia,1928,27553.06
+shanghai,Asia,1928,23988.49
+kaiachi,Asia,1929,26830.25
+cairo,Middle East,1929,26505.94
+beijing,Asia,1929,22111.29
+New York,North America,1929,21597.0
+osaka,Asia,1929,27592.7
+shanghai,Asia,1929,24049.17
+kaiachi,Asia,1930,26881.03
+cairo,Middle East,1930,26604.07
+beijing,Asia,1930,22138.68
+New York,North America,1930,21617.2
+osaka,Asia,1930,27644.8
+shanghai,Asia,1930,24061.64
+kaiachi,Asia,1931,26951.47
+cairo,Middle East,1931,26641.91
+beijing,Asia,1931,22132.1
+New York,North America,1931,21652.11
+osaka,Asia,1931,27611.35
+shanghai,Asia,1931,24034.6
+kaiachi,Asia,1932,26906.14
+cairo,Middle East,1932,26708.53
+beijing,Asia,1932,22149.33
+New York,North America,1932,21645.48
+osaka,Asia,1932,27656.66
+shanghai,Asia,1932,24081.82
+kaiachi,Asia,1933,26993.65
+cairo,Middle East,1933,26766.31
+beijing,Asia,1933,22174.14
+New York,North America,1933,21666.05
+osaka,Asia,1933,27655.76
+shanghai,Asia,1933,24057.58
+kaiachi,Asia,1934,27058.61
+cairo,Middle East,1934,26799.39
+beijing,Asia,1934,22148.54
+New York,North America,1934,21738.45
+osaka,Asia,1934,27613.37
+shanghai,Asia,1934,24052.64
+kaiachi,Asia,1935,27132.56
+cairo,Middle East,1935,26795.14
+beijing,Asia,1935,22156.01
+New York,North America,1935,21768.84
+osaka,Asia,1935,27653.27
+shanghai,Asia,1935,24006.19
+kaiachi,Asia,1936,27177.08
+cairo,Middle East,1936,26856.2
+beijing,Asia,1936,22149.62
+New York,North America,1936,21721.18
+osaka,Asia,1936,27693.94
+shanghai,Asia,1936,24046.19
+kaiachi,Asia,1937,27176.54
+cairo,Middle East,1937,26865.86
+beijing,Asia,1937,22193.11
+New York,North America,1937,21795.87
+osaka,Asia,1937,27745.83
+shanghai,Asia,1937,24007.14
+kaiachi,Asia,1938,27192.69
+cairo,Middle East,1938,26850.02
+beijing,Asia,1938,22198.51
+New York,North America,1938,21880.26
+osaka,Asia,1938,27793.63
+shanghai,Asia,1938,24020.7
+kaiachi,Asia,1939,27203.64
+cairo,Middle East,1939,26839.4
+beijing,Asia,1939,22236.99
+New York,North America,1939,21916.87
+osaka,Asia,1939,27810.43
+shanghai,Asia,1939,24105.21
+kaiachi,Asia,1940,27285.77
+cairo,Middle East,1940,26870.6
+beijing,Asia,1940,22316.45
+New York,North America,1940,22001.01
+osaka,Asia,1940,27794.44
+shanghai,Asia,1940,24069.22
+kaiachi,Asia,1941,27311.12
+cairo,Middle East,1941,26840.57
+beijing,Asia,1941,22336.61
+New York,North America,1941,21986.27
+osaka,Asia,1941,27838.71
+shanghai,Asia,1941,24122.54
+kaiachi,Asia,1942,27385.64
+cairo,Middle East,1942,26829.55
+beijing,Asia,1942,22372.34
+New York,North America,1942,21978.41
+osaka,Asia,1942,27854.18
+shanghai,Asia,1942,24136.89
+kaiachi,Asia,1943,27422.74
+cairo,Middle East,1943,26815.39
+beijing,Asia,1943,22403.88
+New York,North America,1943,21990.47
+osaka,Asia,1943,27952.01
+shanghai,Asia,1943,24196.15
+kaiachi,Asia,1944,27512.84
+cairo,Middle East,1944,26810.9
+beijing,Asia,1944,22361.07
+New York,North America,1944,21998.38
+osaka,Asia,1944,28013.73
+shanghai,Asia,1944,24244.63
+kaiachi,Asia,1945,27472.88
+cairo,Middle East,1945,26862.29
+beijing,Asia,1945,22385.94
+New York,North America,1945,21979.12
+osaka,Asia,1945,28080.61
+shanghai,Asia,1945,24237.67
+kaiachi,Asia,1946,27492.09
+cairo,Middle East,1946,26950.66
+beijing,Asia,1946,22459.15
+New York,North America,1946,22030.09
+osaka,Asia,1946,28149.97
+shanghai,Asia,1946,24191.01
+kaiachi,Asia,1947,27544.86
+cairo,Middle East,1947,27029.7
+beijing,Asia,1947,22419.44
+New York,North America,1947,22089.28
+osaka,Asia,1947,28103.05
+shanghai,Asia,1947,24243.31
+kaiachi,Asia,1948,27614.99
+cairo,Middle East,1948,27020.46
+beijing,Asia,1948,22501.34
+New York,North America,1948,22085.09
+osaka,Asia,1948,28191.49
+shanghai,Asia,1948,24312.56
+kaiachi,Asia,1949,27639.88
+cairo,Middle East,1949,27011.17
+beijing,Asia,1949,22537.81
+New York,North America,1949,22156.0
+osaka,Asia,1949,28218.31
+shanghai,Asia,1949,24316.21
+kaiachi,Asia,1950,27638.66
+cairo,Middle East,1950,27041.2
+beijing,Asia,1950,22570.68
+New York,North America,1950,22129.46
+osaka,Asia,1950,28279.63
+shanghai,Asia,1950,24391.36
+kaiachi,Asia,1951,27697.53
+cairo,Middle East,1951,27069.08
+beijing,Asia,1951,22571.75
+New York,North America,1951,22145.95
+osaka,Asia,1951,28306.62
+shanghai,Asia,1951,24386.87
+kaiachi,Asia,1952,27688.3
+cairo,Middle East,1952,27121.88
+beijing,Asia,1952,22666.08
+New York,North America,1952,22208.14
+osaka,Asia,1952,28364.4
+shanghai,Asia,1952,24351.9
+kaiachi,Asia,1953,27712.2
+cairo,Middle East,1953,27135.79
+beijing,Asia,1953,22655.22
+New York,North America,1953,22214.89
+osaka,Asia,1953,28375.33
+shanghai,Asia,1953,24447.81
+kaiachi,Asia,1954,27737.7
+cairo,Middle East,1954,27227.02
+beijing,Asia,1954,22690.05
+New York,North America,1954,22230.95
+osaka,Asia,1954,28342.39
+shanghai,Asia,1954,24421.87
+kaiachi,Asia,1955,27797.09
+cairo,Middle East,1955,27271.44
+beijing,Asia,1955,22657.26
+New York,North America,1955,22265.4
+osaka,Asia,1955,28327.88
+shanghai,Asia,1955,24502.3
+kaiachi,Asia,1956,27816.98
+cairo,Middle East,1956,27243.01
+beijing,Asia,1956,22684.41
+New York,North America,1956,22254.34
+osaka,Asia,1956,28326.06
+shanghai,Asia,1956,24539.47
+kaiachi,Asia,1957,27807.06
+cairo,Middle East,1957,27221.97
+beijing,Asia,1957,22669.79
+New York,North America,1957,22224.35
+osaka,Asia,1957,28361.89
+shanghai,Asia,1957,24548.07
+kaiachi,Asia,1958,27812.67
+cairo,Middle East,1958,27215.21
+beijing,Asia,1958,22713.81
+New York,North America,1958,22263.64
+osaka,Asia,1958,28416.07
+shanghai,Asia,1958,24550.53
+kaiachi,Asia,1959,27850.1
+cairo,Middle East,1959,27296.34
+beijing,Asia,1959,22752.82
+New York,North America,1959,22319.04
+osaka,Asia,1959,28423.66
+shanghai,Asia,1959,24612.78
+kaiachi,Asia,1960,27907.71
+cairo,Middle East,1960,27392.63
+beijing,Asia,1960,22850.13
+New York,North America,1960,22396.47
+osaka,Asia,1960,28417.46
+shanghai,Asia,1960,24707.31
+kaiachi,Asia,1961,27928.33
+cairo,Middle East,1961,27448.09
+beijing,Asia,1961,22876.51
+New York,North America,1961,22365.13
+osaka,Asia,1961,28466.42
+shanghai,Asia,1961,24751.13
+kaiachi,Asia,1962,27915.1
+cairo,Middle East,1962,27514.09
+beijing,Asia,1962,22905.42
+New York,North America,1962,22456.9
+osaka,Asia,1962,28453.38
+shanghai,Asia,1962,24753.77
+kaiachi,Asia,1963,27876.98
+cairo,Middle East,1963,27509.57
+beijing,Asia,1963,22862.26
+New York,North America,1963,22444.78
+osaka,Asia,1963,28409.93
+shanghai,Asia,1963,24834.83
+kaiachi,Asia,1964,27905.58
+cairo,Middle East,1964,27516.51
+beijing,Asia,1964,22835.74
+New York,North America,1964,22518.17
+osaka,Asia,1964,28487.85
+shanghai,Asia,1964,24871.85
+kaiachi,Asia,1965,27969.51
+cairo,Middle East,1965,27562.68
+beijing,Asia,1965,22818.99
+New York,North America,1965,22617.98
+osaka,Asia,1965,28531.01
+shanghai,Asia,1965,24866.27
+kaiachi,Asia,1966,27944.6
+cairo,Middle East,1966,27652.76
+beijing,Asia,1966,22853.94
+New York,North America,1966,22677.9
+osaka,Asia,1966,28485.12
+shanghai,Asia,1966,24921.98
+kaiachi,Asia,1967,27938.44
+cairo,Middle East,1967,27721.52
+beijing,Asia,1967,22915.85
+New York,North America,1967,22740.18
+osaka,Asia,1967,28438.99
+shanghai,Asia,1967,24947.38
+kaiachi,Asia,1968,27945.34
+cairo,Middle East,1968,27726.62
+beijing,Asia,1968,22887.14
+New York,North America,1968,22709.72
+osaka,Asia,1968,28465.19
+shanghai,Asia,1968,24995.82
+kaiachi,Asia,1969,28007.63
+cairo,Middle East,1969,27703.75
+beijing,Asia,1969,22946.71
+New York,North America,1969,22802.03
+osaka,Asia,1969,28457.43
+shanghai,Asia,1969,25033.61
+kaiachi,Asia,1970,28007.24
+cairo,Middle East,1970,27653.95
+beijing,Asia,1970,22901.22
+New York,North America,1970,22766.99
+osaka,Asia,1970,28510.64
+shanghai,Asia,1970,25004.04
+kaiachi,Asia,1971,28006.91
+cairo,Middle East,1971,27672.84
+beijing,Asia,1971,22948.66
+New York,North America,1971,22738.91
+osaka,Asia,1971,28589.04
+shanghai,Asia,1971,25050.55
+kaiachi,Asia,1972,28065.44
+cairo,Middle East,1972,27766.38
+beijing,Asia,1972,22926.28
+New York,North America,1972,22760.18
+osaka,Asia,1972,28564.69
+shanghai,Asia,1972,25094.71
+kaiachi,Asia,1973,28050.78
+cairo,Middle East,1973,27857.16
+beijing,Asia,1973,22960.93
+New York,North America,1973,22726.44
+osaka,Asia,1973,28562.61
+shanghai,Asia,1973,25144.74
+kaiachi,Asia,1974,28098.12
+cairo,Middle East,1974,27936.0
+beijing,Asia,1974,22939.39
+New York,North America,1974,22777.14
+osaka,Asia,1974,28567.67
+shanghai,Asia,1974,25140.26
+kaiachi,Asia,1975,28106.52
+cairo,Middle East,1975,27997.96
+beijing,Asia,1975,22975.7
+New York,North America,1975,22729.95
+osaka,Asia,1975,28551.97
+shanghai,Asia,1975,25154.27
+kaiachi,Asia,1976,28198.27
+cairo,Middle East,1976,28002.56
+beijing,Asia,1976,23036.9
+New York,North America,1976,22728.96
+osaka,Asia,1976,28613.87
+shanghai,Asia,1976,25129.67
+kaiachi,Asia,1977,28225.54
+cairo,Middle East,1977,28031.81
+beijing,Asia,1977,23037.42
+New York,North America,1977,22729.35
+osaka,Asia,1977,28675.84
+shanghai,Asia,1977,25140.0
+kaiachi,Asia,1978,28182.45
+cairo,Middle East,1978,28131.5
+beijing,Asia,1978,22995.82
+New York,North America,1978,22750.55
+osaka,Asia,1978,28740.88
+shanghai,Asia,1978,25223.48
+kaiachi,Asia,1979,28136.45
+cairo,Middle East,1979,28139.82
+beijing,Asia,1979,22979.04
+New York,North America,1979,22836.02
+osaka,Asia,1979,28804.33
+shanghai,Asia,1979,25214.39
+kaiachi,Asia,1980,28155.78
+cairo,Middle East,1980,28131.87
+beijing,Asia,1980,22940.67
+New York,North America,1980,22913.12
+osaka,Asia,1980,28874.28
+shanghai,Asia,1980,25220.79
+kaiachi,Asia,1981,28210.98
+cairo,Middle East,1981,28100.72
+beijing,Asia,1981,22928.69
+New York,North America,1981,22997.47
+osaka,Asia,1981,28945.38
+shanghai,Asia,1981,25211.27
+kaiachi,Asia,1982,28301.64
+cairo,Middle East,1982,28139.98
+beijing,Asia,1982,22926.69
+New York,North America,1982,23086.24
+osaka,Asia,1982,28992.52
+shanghai,Asia,1982,25172.11
+kaiachi,Asia,1983,28393.54
+cairo,Middle East,1983,28157.69
+beijing,Asia,1983,22907.0
+New York,North America,1983,23157.66
+osaka,Asia,1983,29074.71
+shanghai,Asia,1983,25165.58
+kaiachi,Asia,1984,28481.11
+cairo,Middle East,1984,28111.06
+beijing,Asia,1984,22942.07
+New York,North America,1984,23127.87
+osaka,Asia,1984,29147.26
+shanghai,Asia,1984,25169.87
+kaiachi,Asia,1985,28532.63
+cairo,Middle East,1985,28209.76
+beijing,Asia,1985,22945.02
+New York,North America,1985,23130.79
+osaka,Asia,1985,29161.16
+shanghai,Asia,1985,25149.95
+kaiachi,Asia,1986,28498.26
+cairo,Middle East,1986,28290.97
+beijing,Asia,1986,22905.07
+New York,North America,1986,23108.92
+osaka,Asia,1986,29219.94
+shanghai,Asia,1986,25222.41
+kaiachi,Asia,1987,28506.06
+cairo,Middle East,1987,28314.42
+beijing,Asia,1987,22919.84
+New York,North America,1987,23161.72
+osaka,Asia,1987,29237.31
+shanghai,Asia,1987,25312.19
+kaiachi,Asia,1988,28536.79
+cairo,Middle East,1988,28352.92
+beijing,Asia,1988,22914.38
+New York,North America,1988,23209.33
+osaka,Asia,1988,29249.68
+shanghai,Asia,1988,25384.06
+kaiachi,Asia,1989,28606.45
+cairo,Middle East,1989,28315.6
+beijing,Asia,1989,22926.57
+New York,North America,1989,23299.97
+osaka,Asia,1989,29345.99
+shanghai,Asia,1989,25448.56
+kaiachi,Asia,1990,28566.84
+cairo,Middle East,1990,28352.43
+beijing,Asia,1990,23003.36
+New York,North America,1990,23318.31
+osaka,Asia,1990,29378.97
+shanghai,Asia,1990,25483.61
+kaiachi,Asia,1991,28579.42
+cairo,Middle East,1991,28332.92
+beijing,Asia,1991,23016.01
+New York,North America,1991,23408.72
+osaka,Asia,1991,29454.89
+shanghai,Asia,1991,25533.43
+kaiachi,Asia,1992,28556.23
+cairo,Middle East,1992,28326.95
+beijing,Asia,1992,22987.45
+New York,North America,1992,23477.28
+osaka,Asia,1992,29502.73
+shanghai,Asia,1992,25578.69
+kaiachi,Asia,1993,28602.18
+cairo,Middle East,1993,28311.53
+beijing,Asia,1993,22991.92
+New York,North America,1993,23489.39
+osaka,Asia,1993,29568.99
+shanghai,Asia,1993,25532.57
+kaiachi,Asia,1994,28592.31
+cairo,Middle East,1994,28307.16
+beijing,Asia,1994,22983.39
+New York,North America,1994,23565.4
+osaka,Asia,1994,29611.31
+shanghai,Asia,1994,25533.17
+kaiachi,Asia,1995,28676.41
+cairo,Middle East,1995,28280.84
+beijing,Asia,1995,23029.66
+New York,North America,1995,23663.46
+osaka,Asia,1995,29590.48
+shanghai,Asia,1995,25526.25
+kaiachi,Asia,1996,28690.73
+cairo,Middle East,1996,28359.92
+beijing,Asia,1996,23062.01
+New York,North America,1996,23696.02
+osaka,Asia,1996,29541.79
+shanghai,Asia,1996,25522.82
+kaiachi,Asia,1997,28704.78
+cairo,Middle East,1997,28451.04
+beijing,Asia,1997,23075.9
+New York,North America,1997,23725.81
+osaka,Asia,1997,29613.47
+shanghai,Asia,1997,25517.62
+kaiachi,Asia,1998,28749.03
+cairo,Middle East,1998,28499.24
+beijing,Asia,1998,23064.22
+New York,North America,1998,23702.46
+osaka,Asia,1998,29656.87
+shanghai,Asia,1998,25585.27
+kaiachi,Asia,1999,28780.4
+cairo,Middle East,1999,28520.73
+beijing,Asia,1999,23154.17
+New York,North America,1999,23777.59
+osaka,Asia,1999,29689.38
+shanghai,Asia,1999,25643.85

@@ -1,0 +1,342 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>new document</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <script type="text/javascript"
+            src="http://code.jquery.com/jquery-1.6.1.min.js"></script>
+
+    <script type="text/javascript">
+        function FixTable(TableID, FixColumnNumber, width, height) {
+            /// <summary>
+            ///   锁定表头和列
+            ///   <para> sorex.cnblogs.com </para>
+            /// </summary>
+            /// <param name="TableID" type="String">
+            ///   要锁定的Table的ID
+            /// </param>
+            /// <param name="FixColumnNumber" type="Number">
+            ///   要锁定列的个数
+            /// </param>
+            /// <param name="width" type="Number">
+            ///   显示的宽度
+            /// </param>
+            /// <param name="height" type="Number">
+            ///   显示的高度
+            /// </param>
+            if ($("#" + TableID + "_tableLayout").length != 0) {
+                $("#" + TableID + "_tableLayout").before($("#" + TableID));
+                $("#" + TableID + "_tableLayout").empty();
+            }
+            else {
+                $("#" + TableID).after("<div id='" + TableID + "_tableLayout' style='overflow:hidden;height:" + height + "px; width:" + width + "px;'></div>");
+            }
+            $('<div id="' + TableID + '_tableFix"></div>'
+                + '<div id="' + TableID + '_tableHead"></div>'
+                + '<div id="' + TableID + '_tableColumn"></div>'
+                + '<div id="' + TableID + '_tableData"></div>').appendTo("#" + TableID + "_tableLayout");
+            var oldtable = $("#" + TableID);
+            var tableFixClone = oldtable.clone(true);
+            tableFixClone.attr("id", TableID + "_tableFixClone");
+            $("#" + TableID + "_tableFix").append(tableFixClone);
+            var tableHeadClone = oldtable.clone(true);
+            tableHeadClone.attr("id", TableID + "_tableHeadClone");
+            $("#" + TableID + "_tableHead").append(tableHeadClone);
+            var tableColumnClone = oldtable.clone(true);
+            tableColumnClone.attr("id", TableID + "_tableColumnClone");
+            $("#" + TableID + "_tableColumn").append(tableColumnClone);
+            $("#" + TableID + "_tableData").append(oldtable);
+            $("#" + TableID + "_tableLayout table").each(function () {
+                $(this).css("margin", "0");
+            });
+            var HeadHeight = $("#" + TableID + "_tableHead thead").height();
+            HeadHeight += 2;
+            $("#" + TableID + "_tableHead").css("height", HeadHeight);
+            $("#" + TableID + "_tableFix").css("height", HeadHeight);
+            var ColumnsWidth = 0;
+            var ColumnsNumber = 0;
+            $("#" + TableID + "_tableColumn tr:last td:lt(" + FixColumnNumber + ")").each(function () {
+                ColumnsWidth += $(this).outerWidth(true);
+                ColumnsNumber++;
+            });
+            ColumnsWidth += 2;
+            if ($.browser.msie) {
+                switch ($.browser.version) {
+                    case "7.0":
+                        if (ColumnsNumber >= 3) ColumnsWidth--;
+                        break;
+                    case "8.0":
+                        if (ColumnsNumber >= 2) ColumnsWidth--;
+                        break;
+                }
+            }
+            $("#" + TableID + "_tableColumn").css("width", ColumnsWidth);
+            $("#" + TableID + "_tableFix").css("width", ColumnsWidth);
+            $("#" + TableID + "_tableData").scroll(function () {
+                $("#" + TableID + "_tableHead").scrollLeft($("#" + TableID + "_tableData").scrollLeft());
+                $("#" + TableID + "_tableColumn").scrollTop($("#" + TableID + "_tableData").scrollTop());
+            });
+            $("#" + TableID + "_tableFix").css({
+                "overflow": "hidden",
+                "position": "relative",
+                "z-index": "50",
+                "background-color": "Silver"
+            });
+            $("#" + TableID + "_tableHead").css({
+                "overflow": "hidden",
+                "width": width - 17,
+                "position": "relative",
+                "z-index": "45",
+                "background-color": "Silver"
+            });
+            $("#" + TableID + "_tableColumn").css({
+                "overflow": "hidden",
+                "height": height - 17,
+                "position": "relative",
+                "z-index": "40",
+                "background-color": "Silver"
+            });
+            $("#" + TableID + "_tableData").css({
+                "overflow": "scroll",
+                "width": width,
+                "height": height,
+                "position": "relative",
+                "z-index": "35"
+            });
+            if ($("#" + TableID + "_tableHead").width() > $("#" + TableID + "_tableFix table").width()) {
+                $("#" + TableID + "_tableHead").css("width", $("#" + TableID + "_tableFix table").width());
+                $("#" + TableID + "_tableData").css("width", $("#" + TableID + "_tableFix table").width() + 17);
+            }
+            if ($("#" + TableID + "_tableColumn").height() > $("#" + TableID + "_tableColumn table").height()) {
+                $("#" + TableID + "_tableColumn").css("height", $("#" + TableID + "_tableColumn table").height());
+                $("#" + TableID + "_tableData").css("height", $("#" + TableID + "_tableColumn table").height() + 17);
+            }
+            $("#" + TableID + "_tableFix").offset($("#" + TableID + "_tableLayout").offset());
+            $("#" + TableID + "_tableHead").offset($("#" + TableID + "_tableLayout").offset());
+            $("#" + TableID + "_tableColumn").offset($("#" + TableID + "_tableLayout").offset());
+            $("#" + TableID + "_tableData").offset($("#" + TableID + "_tableLayout").offset());
+        }
+
+        $(document).ready(function () {
+            FixTable("MyTable", 1, 1000, 800);
+        });
+    </script>
+</head>
+<body>
+<table width="800" border="0" id="MyTable"
+       style="border-bottom-color: black; border-top-color: black; width: 1000px; color: #000000; border-right-color: black; font-size: medium; border-left-color: black"
+       border="1" cellspacing="0" cellpadding="0">
+    <thead>
+    <tr>
+        <th rowspan="2" class="data0 " style="padding: 1px 3px">序号</th>
+        <th rowspan="2" class="data1 " style="padding: 1px 3px">发放年月</th>
+        <th rowspan="2" class="data2 " style="padding: 1px 3px">所属分公司</th>
+        <th rowspan="2" class="data3 " style="padding: 1px 3px">工作地</th>
+        <th rowspan="2" class="data4 " style="padding: 1px 3px">姓名</th>
+        <th rowspan="2" class="data5" style="padding: 1px 3px">岗位</th>
+        <th rowspan="2" class="data6" style="padding: 1px 3px">职级</th>
+        <th rowspan="2" class="data7" style="padding: 1px 3px">入职日期</th>
+        <th rowspan="2" class="data8" style="padding: 1px 3px">离职日期</th>
+        <th rowspan="2" class="data9" style="padding: 1px 3px">档位级别</th>
+        <th rowspan="2" class="data10 " style="padding: 1px 3px">应出勤(天)</th>
+        <th rowspan="2" class="data11" style="padding: 1px 3px">缺勤天数</th>
+        <th colspan="4" style="padding: 1px 3px">职级工资</th>
+        <th colspan="5" style="padding: 1px 3px">浮动工资</th>
+        <th colspan="4" style="padding: 1px 3px">补贴</th>
+        <th colspan="7" style="padding: 1px 3px">扣除</th>
+        <th rowspan="2" class="data32" style="padding: 1px 3px">基础税前<br>工资
+        </th>
+        <th rowspan="2" class="data33" style="padding: 1px 3px">实得工资<br>（税前-扣除）
+        </th>
+        <th colspan="3" style="padding: 1px 3px">当月提前支付</th>
+        <th colspan="3" style="padding: 1px 3px">个人所得</th>
+        <th colspan="8" style="padding: 1px 3px">成本</th>
+        <th colspan="3" style="padding: 1px 3px">税务</th>
+        <th rowspan="2" class="data51" style="padding: 1px 3px">备注</th>
+        <th rowspan="2" style="padding: 1px 3px">操作</th>
+    </tr>
+    <tr>
+        <th class="data12" style="padding: 1px 3px">基础工资</th>
+        <th class="data13" style="padding: 1px 3px">工龄工资</th>
+        <th class="data14" style="padding: 1px 3px">职务工资</th>
+        <th class="data15" style="padding: 1px 3px">技能工资</th>
+        <th class="data16" style="padding: 1px 3px">加班工资</th>
+        <th class="data17" style="padding: 1px 3px">提成工资</th>
+        <th class="data18" style="padding: 1px 3px">绩效工资</th>
+        <th class="data19" style="padding: 1px 3px">奖金</th>
+        <th class="data20" style="padding: 1px 3px">其他</th>
+        <th class="data21" style="padding: 1px 3px">通讯补贴</th>
+        <th class="data22" style="padding: 1px 3px">技能补贴</th>
+        <th class="data23" style="padding: 1px 3px">出差伙食<br>补贴</th>
+        <th class="data24" style="padding: 1px 3px">其他补贴</th>
+        <th class="data25" style="padding: 1px 3px">缺勤扣除<br>金额</th>
+        <th class="data26" style="padding: 1px 3px">保险</th>
+        <th class="data27" style="padding: 1px 3px">公积金</th>
+        <th class="data28" style="padding: 1px 3px">个税</th>
+        <th class="data29" style="padding: 1px 3px">赔款</th>
+        <th class="data30" style="padding: 1px 3px">水电费</th>
+        <th class="data31" style="padding: 1px 3px">其他扣除</th>
+        <th class="data34" style="padding: 1px 3px">凭票现金<br>补贴</th>
+        <th class="data35" style="padding: 1px 3px">凭票交通<br>补贴</th>
+        <th class="data36" style="padding: 1px 3px">凭票其他<br>补贴</th>
+        <th class="data37" style="padding: 1px 3px">签约税前<br>工资</th>
+        <th class="data38" style="padding: 1px 3px">实际税前<br>工资</th>
+        <th class="data39" style="padding: 1px 3px">实际税后<br>工资</th>
+        <th class="data40" style="padding: 1px 3px">保险地区</th>
+        <th class="data41" style="padding: 1px 3px">保险总额</th>
+        <th class="data42" style="padding: 1px 3px">保险公司<br>承担</th>
+        <th class="data43" style="padding: 1px 3px">公积金总额</th>
+        <th class="data44" style="padding: 1px 3px">公积金公司<br>承担</th>
+        <th class="data45" style="padding: 1px 3px">第一笔支付</th>
+        <th class="data46" style="padding: 1px 3px">第二笔支付</th>
+        <th class="data47" style="padding: 1px 3px">实际承担</th>
+        <th class="data48" style="padding: 1px 3px">累计应交<br>稅额</th>
+        <th class="data49" style="padding: 1px 3px">累计已交<br>个税</th>
+        <th class="data50" style="padding: 1px 3px">专项附加</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td align="center">1-2</td>
+        <td align="center">2-2</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-3</td>
+        <td align="center">2-3</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-4</td>
+        <td align="center">2-4</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-5</td>
+        <td align="center">2-5</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-6</td>
+        <td align="center">2-6</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-7</td>
+        <td align="center">2-7</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-8</td>
+        <td align="center">2-8</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-9</td>
+        <td align="center">2-9</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-10</td>
+        <td align="center">2-10</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-11</td>
+        <td align="center">2-11</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-12</td>
+        <td align="center">2-12</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-13</td>
+        <td align="center">2-13</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-14</td>
+        <td align="center">2-14</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    <tr>
+        <td align="center">1-15</td>
+        <td align="center">2-15</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+        <td align="center">--</td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
