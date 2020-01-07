@@ -34,7 +34,7 @@ class MatplotChart(object):
         # 设置中文字体
         font = FontProperties(fname=r"C:\Windows\Fonts\simhei.ttf", size=14)
         ax.set_thetagrids(angles * 180 / np.pi, labels, FontProperties=font)
-        if isdownload: #要放到 show() 前
+        if isdownload:  # 要放到 show() 前
             if download_path is None:
                 print(download_path)
                 print(self.all_download_path)
@@ -44,10 +44,9 @@ class MatplotChart(object):
         plt.show()
 
 
-
 if __name__ == '__main__':
     # 数据准备（蜘蛛图）
     labels = np.array([u" 推进 ", "KDA", u" 生存 ", u" 团战 ", u" 发育 ", u" 输出 "])
     stats = [20, 50, 95, 47, 56, 88]
     a = MatplotChart()
-    a.radar_chart(labels, stats,isdownload=True)
+    a.radar_chart(labels, stats, isdownload=True)
