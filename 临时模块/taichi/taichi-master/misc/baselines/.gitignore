@@ -1,0 +1,10 @@
+results*
+taichi.h
+*.png
+atomics
+ma
+rand
+rand_nvcc
+rand_clang
+*.ll
+*.ptx

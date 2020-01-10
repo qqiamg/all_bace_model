@@ -1,0 +1,5 @@
+#include "scratch_pad.h"
+
+TLANG_NAMESPACE_BEGIN
+
+TLANG_NAMESPACE_END
