@@ -118,7 +118,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'zh-hans'
 
-TIME_ZONE = 'AsiaShanghai'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
@@ -130,22 +130,69 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-# STATICFILES_DIRS = [
-#      os.path.join(BASE_DIR, "static"),
-# ]
+# STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+STATICFILES_DIRS = [
+     os.path.join(BASE_DIR, "static"),
+]
 
-# 指定simpleui默认的主题,指定一个文件名，相对路径就从simpleui的theme目录读取
-SIMPLEUI_DEFAULT_THEME = 'admin.lte.css'
+# # 指定simpleui默认的主题,指定一个文件名，相对路径就从simpleui的theme目录读取
+# SIMPLEUI_DEFAULT_THEME = 'admin.lte.css'
 
 # 登陆粒子效果
-SIMPLEUI_LOGIN_PARTICLES = False
+SIMPLEUI_LOGIN_PARTICLES = True
 
 # 首页配置
 SIMPLEUI_HOME_PAGE = 'https://www.baidu.com'
 
 # 首页标题
-SIMPLEUI_HOME_TITLE = '百度一下你就知道'
+SIMPLEUI_HOME_TITLE = '百度一下 你就知道'
 
 # 图标 首页图标,支持element-ui和fontawesome的图标，参考https://fontawesome.com/icons图标
 SIMPLEUI_HOME_ICON = 'fas fa-camera'
+
+
+import time
+SIMPLEUI_CONFIG = {
+    'system_keep': True,
+    'menu_display': ['Simpleui', '测试', '权限认证', '动态菜单测试'],      # 开启排序和过滤功能, 不填此字段为默认排序和全部显示, 空列表[] 为全部不显示.
+    'dynamic': False,    # 设置是否开启动态菜单, 默认为False. 如果开启, 则会在每次用户登陆时动态展示菜单内容
+    'menus': [{
+        'name': 'Simpleui',
+        'icon': 'fas fa-code',
+        'url': 'https://gitee.com/tompeppa/simpleui'
+    }, {
+        'app': 'auth',
+        'name': '权限认证',
+        'icon': 'fas fa-user-shield',
+        'models': [{
+            'name': '用户',
+            'icon': 'fa fa-user',
+            'url': 'auth/user/'
+        },
+            {
+                'name':'组',
+                'icon': 'fa fa-group',
+                'url':'auth/group'
+            }]
+    }, {
+        'name': '测试',
+        'icon': 'fa fa-file',
+        'models': [{
+            'name': 'Baidu',
+            'url': 'http://baidu.com',
+            'icon': 'far fa-surprise'
+        }, {
+            'name': '内网穿透',
+            'url': 'https://www.wezoz.com',
+            'icon': 'fab fa-github'
+        }]
+    }, {
+        'name': '动态菜单测试' ,
+        'icon': 'fa fa-desktop',
+        'models': [{
+            'name': time.time(),
+            'url': 'http://baidu.com',
+            'icon': 'far fa-surprise'
+        }]
+    }]
+}
