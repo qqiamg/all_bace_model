@@ -19,7 +19,6 @@ class RunMaster(object):
         if self.chose_mode == 0:
             name = self.user_param["choice"][0]['param_values']
             try:
-
                 start_url_list = name
                 for start_url in start_url_list:
                     if "?" in start_url:
