@@ -1,6 +1,6 @@
 from scrapy import cmdline
 import os
-dir = r'D:\杨伟强\整理\项目模块\scarpy 练习\baidu\baidu\spiders'
+dir = r'C:\git整理\git2019\项目模块\scarpy 练习\baidu\baidu\spiders'
 
 os.chdir(dir)
 # command = 'scrapy crawl mweibo'
