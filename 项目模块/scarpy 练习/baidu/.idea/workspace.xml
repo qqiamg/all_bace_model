@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4030c6b2-bbb5-492b-a3d8-fb1bb75294d4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/baidu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/baidu.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bigdata/.idea/bigdata.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bigdata/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bigdata/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bigdata/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bigdata/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baidu/spiders/com_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/baidu/spiders/com_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/start.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +41,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baidu/spiders/com_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="102" selection-start-line="11" selection-start-column="102" selection-end-line="11" selection-end-column="102" />
+            <state relative-caret-position="308">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
-                <element signature="e#557#586#0" />
               </folding>
             </state>
           </provider>
@@ -305,15 +305,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578986255149</updated>
-      <workItem from="1583397955283" duration="880000" />
+      <workItem from="1583397955283" duration="1296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="880000" />
+    <option name="totallyTimeSpent" value="1296000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24886535" />
@@ -321,7 +321,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3435484" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21612903" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27370688" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -664,11 +664,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baidu/spiders/com_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="102" selection-start-line="11" selection-start-column="102" selection-end-line="11" selection-end-column="102" />
+        <state relative-caret-position="308">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
-            <element signature="e#557#586#0" />
           </folding>
         </state>
       </provider>

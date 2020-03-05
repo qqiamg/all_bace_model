@@ -15,7 +15,7 @@ class ComSpiderSpider(scrapy.Spider):
     def parse(self, response):
         data = response.xpath('//*[@class="wrap-grid"]//li')
         for i in data:
-
+            pass
 
         # for num in range(1,data+1):
         #     # 需要实例化ItemLoader， 注意第一个参数必须是实例化的对象...
