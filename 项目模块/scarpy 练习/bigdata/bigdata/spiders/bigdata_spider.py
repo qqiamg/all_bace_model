@@ -1,15 +1,25 @@
 # -*- coding: utf-8 -*-
 import scrapy
+import datetime
+from scrapy_redis.spiders import RedisSpider
 
-
-class BigdataSpiderSpider(scrapy.Spider):
+# class BigdataSpiderSpider(scrapy.Spider):
+class BigdataSpiderSpider(RedisSpider):
     name = 'bigdata_spider'
     allowed_domains = ['bigdata.yisurvey.com']
-    start_urls = ['http://bigdata.yisurvey.com/']
+    # start_urls = ['http://bigdata.yisurvey.com/']
+    # scrapy-redis
+    redis_key = "bigdata_spider:start_urls"
+    # start_urls = ['http://bigdata.yisurvey.com/commodity/market/']
+    # bace_url = 'http://bigdata.yisurvey.com/'
 
-    def start_requests(self):
-        start_urls = 'http://bigdata.yisurvey.com/commodity/market/'
-        yield scrapy.Request(start_urls, self.parse)
+    # def start_requests(self):
+    #     redis_key = "bigdata_spider:start_urls"
+    #     print(redis_key)
+    #     yield scrapy.Request(redis_key, self.parse)
+    #     pass
+    #     start_urls = 'http://bigdata.yisurvey.com/commodity/market/'
+    #     yield scrapy.Request(start_urls, self.parse)
 
     def parse(self, response):
         # 获取url
@@ -34,7 +44,8 @@ class BigdataSpiderSpider(scrapy.Spider):
             'money': money,
             'using': using,
             'introduction': introduction,
-            'dietail_url': data_item.get('details_url')
+            'dietail_url': data_item.get('details_url'),
+            'collect_time':datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         }
         # print(item)
         yield item

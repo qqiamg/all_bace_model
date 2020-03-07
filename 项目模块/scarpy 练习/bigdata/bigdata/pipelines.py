@@ -8,6 +8,7 @@ import pymongo
 # from scrapy.conf import settings #老版写法
 from scrapy.utils.project import get_project_settings #新版写法
 import logging
+import scrapy_redis
 # from bigdata import settings
 
 class BigdataPipeline(object):

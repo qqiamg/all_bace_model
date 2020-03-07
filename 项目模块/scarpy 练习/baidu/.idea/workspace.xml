@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4030c6b2-bbb5-492b-a3d8-fb1bb75294d4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bigdata/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bigdata/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bigdata/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bigdata/bigdata/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bigdata/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bigdata/bigdata/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bigdata/bigdata/spiders/bigdata_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bigdata/bigdata/spiders/bigdata_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,9 +99,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="745" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -319,7 +315,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21612903" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21612903" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27370688" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
