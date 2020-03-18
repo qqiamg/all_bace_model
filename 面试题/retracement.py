@@ -9,22 +9,22 @@ class GetRetracement():
     def getdata(self):
         pro = ts.pro_api('0bb0b361e40272ca91a4bf0e8a2496a2d8d8e65fdefbf611daa2d988')
         # 月数据
-        df = pro.monthly(ts_code='000001.SZ', start_date='20170101', end_date='20190101', fields='ts_code,trade_date,open,high,low,close,vol,amount')
+        df = pro.monthly(ts_code='000001.SZ', start_date='20180101', end_date='20200101', fields='ts_code,trade_date,open,high,low,close,vol,amount')
         # 天数据
         # df = pro.daily(ts_code='000001.SZ', start_date='20200317', end_date='20200318')
         print(df)
 
-        # df.to_excel('2017-2019data.xlsx', index=False)
+        df.to_excel('2018-2020data.xlsx', index=False)
 
     def count_data(self):
         """算最大回撤率"""
-        df = pd.read_excel('2017-2019data.xlsx')
-        df['retracement'] = (df['high']-df['low'])/df['high']
-        df['retracement_rate'] = df['retracement'].apply(lambda x: format(x, '.2%'))
+        df = pd.read_excel('2018-2020data.xlsx')
+        df['retracement'] = (df['high']-df['low'])/df['high'] #计算公式
+        df['retracement_rate'] = df['retracement'].apply(lambda x: format(x, '.2%')) #转百分比
         # print(df) #数据
         print('最大回撤为：' ,format(df['retracement'].max(),'.2%'))
-        self.write_data(50.0,df,'2017-2019直方图.png')
-        df.to_excel('2017-2019data_after.xlsx',index=False)
+        self.write_data(50.0,df,'2018-2020直方图.png')
+        df.to_excel('2018-2020data_after.xlsx',index=False)
 
     def write_data(self,len,data,name='直方图.png'):
         """绘制直方图"""
@@ -68,12 +68,11 @@ class FinancialCrisis():
         df = pd.read_excel('FinancialCrisis_data.xlsx')
         df['retracement'] = (df['high'] - df['low']) / df['high']
         df['retracement_rate'] = df['retracement'].apply(lambda x: format(x, '.2%'))
-        #分开各个部分
+        #一、分开各个部分
         title = ['2018_1-9','2015_6-10','2020_1-2']
         re_list = []
         cd_df =  df[df['trade_date']<20090101]  #2008
         re_list.append((cd_df['high'].max()-cd_df['low'].min())/cd_df['high'].max())
-        # print((cd_df['high'].max()-cd_df['low'].min())/cd_df['high'].max())
         gz_df = df[(df['trade_date']<20160101) & (20140101 <df['trade_date'])]   #2015
         re_list.append((gz_df['high'].max() - gz_df['low'].min()) / gz_df['high'].max())
         yq_df =  df[df['trade_date']>20191201] #2020
@@ -83,11 +82,14 @@ class FinancialCrisis():
         data['retracement_rate'] = data['retracement'].apply(lambda x: format(x, '.2%')) #算百分比
         # print(data) #数据
         self.write_data(5.0,data,'危机直方图_按时间段.png') #保存图片
-        #按月统计
+        data.to_excel('危机直方图_按时间段.xlsx', index=False)
+        #二、按月统计
         df['retracement'] = (df['high'] - df['low']) / df['high']
         df['retracement_rate'] = df['retracement'].apply(lambda x: format(x, '.2%'))
-        print(df)
+        # print(df)
+        print('最大回撤为：', format(df['retracement'].max(), '.2%'))
         self.write_data(15.0,df,'危机直方图_按月.png')
+        df.to_excel('危机直方图_按月.xlsx', index=False)
 
     def write_data(self,len,data,name='直方图.png'):
         """绘制直方图"""
@@ -101,5 +103,6 @@ if __name__ == '__main__':
     # getdata()
     a = GetRetracement()
     a.count_data()
+    # a.count_data()
     a = FinancialCrisis()
     a.count_data()
