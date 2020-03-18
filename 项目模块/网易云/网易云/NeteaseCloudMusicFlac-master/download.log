@@ -1,0 +1,68 @@
+2019-10-22 18:18:14 main.py:177 [INFO] 将下载所有歌曲, 包括 MP3 格式.
+2019-10-22 18:18:14 main.py:69 [INFO] 歌单: 
+
+2019-10-22 18:18:14 main.py:74 [ERROR] 不能解析歌单 url
+
+2019-10-22 18:20:27 main.py:177 [INFO] 将下载所有歌曲, 包括 MP3 格式.
+2019-10-22 18:20:27 main.py:69 [INFO] 歌单: 没有无损的好歌
+
+2019-10-22 18:20:27 main.py:179 [INFO] 歌单中包含的歌曲有: ['夏影', 'Rain', 'シルシ', '黄色大门', 'One more time, One more chance', 'On a Slow Boat to China', 'Counting Stars', 'Viva La Vida', "You're Beautiful", '明白了', 'current', 'K歌之王', '心做し', '风继续吹(Live)', 'you', 'sweets parade', '仆は君に恋をする (live)', '空をこえて 海をこえて', '画心Ⅱ', '情人 (Live)', '有多少爱可以重来', 'It Is Well (Live)', '分手总要在雨天(Live)', '致少年时代', '我本人', '旧情绵绵(Live)', '越吻越伤心+原来你甚么都不要(Live)', '到此为止']
+2019-10-22 18:20:27 main.py:106 [INFO] 未查找到歌曲 黄色大门 对应的ID
+2019-10-22 18:20:28 main.py:106 [INFO] 未查找到歌曲 画心Ⅱ 对应的ID
+2019-10-22 18:20:28 main.py:106 [INFO] 未查找到歌曲 致少年时代 对应的ID
+2019-10-22 18:20:28 main.py:106 [INFO] 未查找到歌曲 越吻越伤心+原来你甚么都不要(Live) 对应的ID
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "\u590f\u306e\u5e7b\u5f71", "artist": "\u5c3e\u5d0e\u4e9c\u7f8e", "link": null, "data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "\u5047\u88c5", "artist": "Rain", "link": "http://audio04.dmhmusic.com/71_53_T10038902668_2918_4_1_0_sdk-cpm/cn/0311/M00/21/AE/ChAKC113VGOAR6RTA3HppOJhjzQ46.flac?xcode=37df6b350404615d5470670cbdb0200d9794000", "size": 55, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "\u30b7\u30eb\u30af", "artist": "\u611f\u50b7\u30d9\u30af\u30c8\u30eb", "link": "http://audio04.dmhmusic.com/71_53_T10051751746_924_4_1_0_sdk-cpm/cn/0206/M00/B5/70/ChR4612H8xuASGlJAhrLWkOIFSU74.flac?xcode=1ca82a102b98a65254705c9de19bfa5711119c5", "size": 34, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "On A Slow Boat to China", "artist": "Benny Goodman", "link": null, "data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "One more time,One more chance", "artist": "\u3064\u308b\u306e\u525b\u58eb", "link": null, "data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "Counting Stars", "artist": "All-Star Nation", "link": "http://audio04.dmhmusic.com/71_53_T10014438608_1009_4_1_0_sdk-cpm/cn/0104/M00/06/7A/ChR45Vl9iI2AMY7BAfCXL-5GbmI47.flac?xcode=b94ab2425fd2bf1f54700d93c2e0d5d8d60853b", "size": 31, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "Viva La Vida", "artist": "Coldplay", "link": "http://audio04.dmhmusic.com/71_53_T10033374980_871_4_1_0_sdk-cpm/cn/0103/M00/A9/EF/ChR45FnNrEaAUPvHAZXhVFRDlhI80.flac?xcode=8ce899082877f6a7547040805e4e8616f571dd0", "size": 25, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "You're Beautiful", "artist": "Captain Peter Hudson,The Band of the Royal Anglian Regiment,James Blunt", "link": "http://audio04.dmhmusic.com/71_53_T10012964609_547_4_1_0_sdk-cpm/cn/0103/M00/02/EA/ChR45Vl9E6uAVg_TAMzFijabHtk17.flac?xcode=cb479c6a53f51c095470777453ecce3b6d85818", "size": 13, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "\u7d42\u65bc\u660e\u767d\u4e86", "artist": "\u725f\u8317", "link": "http://audio04.dmhmusic.com/71_53_T10030648419_996_4_1_0_sdk-cpm/cn/0104/M00/2E/81/ChR45FmC08GAGlbvAavtmBTFXf806.flac?xcode=e55335b4951a5b95547066ea75b82fbf0e7ce01", "size": 27, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "K\u6b4c\u4e4b\u738b", "artist": "\u5f20\u7a46\u5ead", "link": null, "data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "Current", "artist": "$olstice", "link": "http://audio04.dmhmusic.com/71_53_T10044384969_888_4_1_0_sdk-cpm/cn/0206/M00/56/1A/ChR461rb49KAD0xaATL-bd0pQz402.flac?xcode=a0cfb025176cb88054706cde1b19c1a30f05c0b", "size": 19, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "Live", "artist": "Celine Dion", "link": "http://audio04.dmhmusic.com/71_53_T10024648036_660_4_1_0_sdk-cpm/cn/0105/M00/1F/81/ChR45FmAzwCAZ_2iASlk-4OAOR430.flac?xcode=b52f5c0ed2d459bb54705cc1e5da52301534c07", "size": 19, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "\u5fc3\u505a\u3057(\u30ab\u30d0\u30fc)", "artist": "\u307e\u3058\u5a18", "link": null, "data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "Keester Parade", "artist": "Harry \"Sweets\" Edison", "link": "http://audio04.dmhmusic.com/71_53_T10023099632_795_4_1_0_sdk-cpm/cn/0103/M00/1B/AB/ChR45VmASYuAZ0WPAnlT9G1XOlM64.flac?xcode=4e95495138891eba54706cc8f7b3d42e413ba7f", "size": 40, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "Live", "artist": "Celine Dion", "link": "http://audio04.dmhmusic.com/71_53_T10024648036_660_4_1_0_sdk-cpm/cn/0105/M00/1F/81/ChR45FmAzwCAZ_2iASlk-4OAOR430.flac?xcode=b52f5c0ed2d459bb54705cc1e5da52301534c07", "size": 19, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "\u7a7a\u3092\u3053\u3048\u3066", "artist": "Jamil", "link": null, "data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "\u60c5\u4eba", "artist": "Beyond", "link": "http://audio04.dmhmusic.com/71_53_T10041185798_1411_4_1_0_sdk-cpm/cn/0207/M00/30/BF/ChR47FpkVbmAPFGIAfkY62_kD9Q62.flac?xcode=19f8efe25fcc041b546fe7fa226cd2cec1e1f33", "size": 32, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "Live", "artist": "\ud574\ud53c\ud0c0\uc784\ubba4\uc9c1", "link": null, "data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "It Is Well (Live)", "artist": "Israel Mosehla", "link": "http://audio04.dmhmusic.com/71_53_T10012031223_944_4_1_0_sdk-cpm/cn/0103/M00/00/A5/ChR45Vl8yaCAdUOfAOgZBzMyjZA73.flac?xcode=ca78b812ebe763a854706c43ff50181780aedb3", "size": 15, "data": true}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "\u7231\u60c5\u9ad8\u516b\u5ea6", "artist": "\u621a\u5b9d", "link": null, "data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "Vol.347 \u6211\u5c31\u662f\u80cc\u9505\u4fa0\u672c\u4eba", "artist": "\u5927\u5185\u5bc6\u8c08", "link": null, "data": false}
+2019-10-22 18:20:28 main.py:134 [INFO] 获取歌曲信息 {"songname": "\u65e7\u60c5\u7ef5\u7ef5", "artist": "\u65b0\u7231\u4e50\u4ea4\u54cd\u4e50\u56e2", "link": null, "data": false}
+2019-10-22 18:20:29 main.py:134 [INFO] 获取歌曲信息 {"data": false}
+2019-10-22 18:20:29 main.py:134 [INFO] 获取歌曲信息 {"songname": "\u5230\u6b64\u4e3a\u6b62", "artist": "\u5f90\u4f73\u83b9", "link": "http://audio04.dmhmusic.com/71_53_T10040716734_128_4_1_0_sdk-cpm/cn/0209/M00/BE/C5/ChR47F170CGAUqu2ADXyJZo1afY660.mp3?xcode=03e7f63a507aaf085470459f2c7029037a6e8ca", "size": 3, "data": true}
+2019-10-22 18:20:29 main.py:134 [INFO] 获取歌曲信息 {"songname": "You", "artist": "tokyo blue weeps,toshimitsu kokido,hiroshi kokido", "link": "http://audio04.dmhmusic.com/71_53_T10012288078_797_4_1_0_sdk-cpm/cn/0102/M00/01/40/ChR45Vl837CANWLRAjcBiHC6q4020.flac?xcode=ca7428eb1b75eec55470f4a26bdbc70bccf4b71", "size": 35, "data": true}
+2019-10-22 18:20:29 main.py:190 [INFO] 获取歌曲信息完成，开始下载。
+2019-10-22 18:20:29 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\假装-Rain.flac
+2019-10-22 18:20:29 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\シルク-感傷ベクトル.flac
+2019-10-22 18:20:29 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Counting Stars-All_Star Nation.flac
+2019-10-22 18:20:29 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Viva La Vida-Coldplay.flac
+2019-10-22 18:20:29 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\You're Beautiful-Captain Peter Hudson,The Band of the Royal Anglian Regiment,James Blunt.flac
+2019-10-22 18:20:29 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\終於明白了-牟茗.flac
+2019-10-22 18:20:29 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Current-$olstice.flac
+2019-10-22 18:20:29 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Live-Celine Dion.flac
+2019-10-22 18:20:29 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\You-tokyo blue weeps,toshimitsu kokido,hiroshi kokido.flac
+2019-10-22 18:20:29 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Keester Parade-Harry %22Sweets%22 Edison.flac
+2019-10-22 18:20:29 main.py:159 [INFO] 下载完成: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Counting Stars-All_Star Nation.flac 
+2019-10-22 18:20:29 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Live-Celine Dion.flac
+2019-10-22 18:20:33 main.py:159 [INFO] 下载完成: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\You're Beautiful-Captain Peter Hudson,The Band of the Royal Anglian Regiment,James Blunt.flac 
+2019-10-22 18:20:37 main.py:159 [INFO] 下载完成: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Current-$olstice.flac 
+2019-10-22 18:20:41 main.py:159 [INFO] 下载完成: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\シルク-感傷ベクトル.flac 
+2019-10-22 18:20:42 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\情人-Beyond.flac
+2019-10-22 18:20:42 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\It Is Well (Live)-Israel Mosehla.flac
+2019-10-22 18:20:42 main.py:159 [INFO] 下载完成: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\情人-Beyond.flac 
+2019-10-22 18:20:42 main.py:152 [INFO] 下载中: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\到此为止-徐佳莹.flac
+2019-10-22 18:20:42 main.py:159 [INFO] 下载完成: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Live-Celine Dion.flac 
+2019-10-22 18:20:42 main.py:159 [INFO] 下载完成: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Keester Parade-Harry %22Sweets%22 Edison.flac 
+2019-10-22 18:20:42 main.py:159 [INFO] 下载完成: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\到此为止-徐佳莹.flac 
+2019-10-22 18:20:43 main.py:159 [INFO] 下载完成: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Live-Celine Dion.flac 
+2019-10-22 18:20:44 main.py:159 [INFO] 下载完成: D:\杨伟强\网易云\NeteaseCloudMusicFlac-master\songs_dir\没有无损的好歌\Viva La Vida-Coldplay.flac 
+2019-10-22 18:24:50 main.py:69 [INFO] 歌单: 没有无损的好歌
+
