@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f526b060-3cb1-4ba0-a255-6fa4ca210184" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2018-2020data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-2020data_after.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-2020直方图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/危机直方图_按时间段.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/危机直方图_按月.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b站视频下载链接.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目模块/哔哩哔哩/down_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目模块/哔哩哔哩/download.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017-2019data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017-2019data_after.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017-2019直方图.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/retracement.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/retracement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="101" column="26" lean-forward="true" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+            <state relative-caret-position="206">
+              <caret line="88" column="19" lean-forward="true" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
                 <element signature="e#968#1150#0" />
@@ -180,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584523726906</updated>
-      <workItem from="1584523735258" duration="16328000" />
+      <workItem from="1584523735258" duration="16427000" />
     </task>
     <task id="LOCAL-00001" summary="面试题">
       <created>1584542257515</created>
@@ -189,14 +183,22 @@
       <option name="project" value="LOCAL" />
       <updated>1584542257516</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="面试题">
+      <created>1584545399609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584545399609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16328000" />
+    <option name="totallyTimeSpent" value="16427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" sideWeight="0.5011655" side_tool="true" weight="0.24962178" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988345" visible="true" weight="0.24962178" />
@@ -209,7 +211,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15322581" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15322581" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -267,8 +269,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/retracement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="101" column="26" lean-forward="true" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+        <state relative-caret-position="206">
+          <caret line="88" column="19" lean-forward="true" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
             <element signature="e#968#1150#0" />
