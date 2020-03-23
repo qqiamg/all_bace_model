@@ -1,6 +1,7 @@
 # rs = 12
 # a = pow(2,2)
 # print(a)
-a = '15341576138761358764'
-b = a[::-1]
-print(b)
+import re
+a = '一直一直爱你[憨笑] 啊啊啊啊明晚lala'
+sub_comment = re.sub('\[.*?\]','',a)
+print(sub_comment)

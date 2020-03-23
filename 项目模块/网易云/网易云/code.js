@@ -13083,6 +13083,10 @@ lowBitMasks = new Array(0,1,3,7,15,31,63,127,255,511,1023,2047,4095,8191,16383,3
             e7d.method = "post";
             delete e7d.query;
             // window.console.info(i7b)
+            window.console.info(JSON.stringify(i7b))
+            window.console.info(brx0x(["流泪", "强"]))
+            window.console.info(brx0x(Xs2x.md))
+            window.console.info(brx0x(["爱心", "女孩", "惊恐", "大笑"]))
             var bVj8b = window.asrsea(JSON.stringify(i7b), brx0x(["流泪", "强"]), brx0x(Xs2x.md), brx0x(["爱心", "女孩", "惊恐", "大笑"]));
             window.console.info(window.asrsea())
             e7d.data = k7d.cx8p({

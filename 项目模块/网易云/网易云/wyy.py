@@ -1,14 +1,12 @@
+
 import requests, os, json, base64
 from scrapy.selector import Selector
 from  binascii import hexlify
 from Crypto.Cipher import AES
-from Crypto.Cipher import PKCS1_v1_5 as Cipher_pkcs1_v1_5
-from Crypto.PublicKey import RSA
-import Crypto.PublicKey.RSA
-import Crypto.Cipher.PKCS1_v1_5
-import Crypto.Random
-import Crypto.Signature.PKCS1_v1_5
-import Crypto.Hash
+
+
+"""获取歌曲列表"""
+
 class Encrypyed():
     '''传入歌曲的ID，加密生成'params'、'encSecKey 返回'''
 
@@ -99,6 +97,7 @@ class search():
             for song in songs:
                 song_id, song_name, singer, alia = song['id'], song['name'], song['ar'][0]['name'], song['al']['name']
                 print(song_id, song_name, singer, alia)
+
 
 
 if __name__ == '__main__':
