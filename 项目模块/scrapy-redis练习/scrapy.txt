@@ -1,0 +1,2 @@
+scrapy startproject douban
+scrapy genspider jobbole blog.jobbole.com
